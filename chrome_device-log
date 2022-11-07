@@ -3,7 +3,2848 @@ Refresh Clear Log Level:
 Debug
   File Info  Detailed Timestamps
 Clear Types  Login  Network  Power  Bluetooth  USB  HID  Printer  FIDO  Serial  Camera
-PowerDebug[2022/11/06 23:51:37.804321] power_manager_client.cc:791 Received power supply poll signal.
+
+NetworkEvent[2022/11/07 01:02:14.699053] network_portal_detector_impl.cc:388 NetworkPortalDetector completed: id=ethernet_0, result=InternetConnected, status=2, response_code=204
+
+NetworkEvent[2022/11/07 01:02:14.592446] network_portal_detector_impl.cc:314 Starting captive portal detection.
+
+PowerDebug[2022/11/07 01:02:03.541838] power_manager_client.cc:791 Received power supply poll signal.
+
+NetworkEvent[2022/11/07 00:57:14.580652] network_portal_detector_impl.cc:388 NetworkPortalDetector completed: id=ethernet_0, result=InternetConnected, status=2, response_code=204
+
+NetworkEvent[2022/11/07 00:57:14.492364] network_portal_detector_impl.cc:314 Starting captive portal detection.
+
+PowerDebug[2022/11/07 00:57:03.451895] power_manager_client.cc:791 Received power supply poll signal.
+
+NetworkEvent[2022/11/07 00:52:14.490841] network_portal_detector_impl.cc:388 NetworkPortalDetector completed: id=ethernet_0, result=InternetConnected, status=2, response_code=204
+
+NetworkEvent[2022/11/07 00:52:14.404489] network_portal_detector_impl.cc:314 Starting captive portal detection.
+
+PowerDebug[2022/11/07 00:52:03.378297] power_manager_client.cc:791 Received power supply poll signal.
+
+NetworkEvent[2022/11/07 00:47:14.400722] network_portal_detector_impl.cc:388 NetworkPortalDetector completed: id=ethernet_0, result=InternetConnected, status=2, response_code=204
+
+NetworkEvent[2022/11/07 00:47:14.313363] network_portal_detector_impl.cc:314 Starting captive portal detection.
+
+PowerUser[2022/11/07 00:47:07.175836] power_manager_client.cc:436 SetPolicy
+
+PowerDebug[2022/11/07 00:47:03.296244] power_manager_client.cc:791 Received power supply poll signal.
+
+PowerUser[2022/11/07 00:46:55.196606] power_manager_client.cc:436 SetPolicy
+
+PowerDebug[2022/11/07 00:46:33.286538] power_manager_client.cc:791 Received power supply poll signal.
+
+MemoryError[2022/11/07 00:43:43.160696] tab_manager_delegate_chromeos.cc:635 Time to first kill 0.376062 s
+
+MemoryError[2022/11/07 00:43:43.160516] tab_manager_delegate_chromeos.cc:567 Target memory to free: -69643 KB
+
+MemoryError[2022/11/07 00:43:43.159858] tab_manager_delegate_chromeos.cc:623 Killed tab (id: 60), estimated 70080 KB freed
+
+MemoryError[2022/11/07 00:43:42.801334] tab_manager_delegate_chromeos.cc:567 Target memory to free: 437 KB
+
+MemoryError[2022/11/07 00:43:42.801261] tab_manager_delegate_chromeos.cc:557 tab (id: 75, pid: 14945), process_type FOCUSED_TAB
+
+MemoryError[2022/11/07 00:43:42.801183] tab_manager_delegate_chromeos.cc:557 tab (id: 16, pid: 18654), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:42.801109] tab_manager_delegate_chromeos.cc:557 tab (id: 86, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:42.801034] tab_manager_delegate_chromeos.cc:557 tab (id: 87, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:42.800949] tab_manager_delegate_chromeos.cc:557 tab (id: 89, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:42.800852] tab_manager_delegate_chromeos.cc:557 tab (id: 66, pid: 31106), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:42.800775] tab_manager_delegate_chromeos.cc:557 tab (id: 65, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:42.800695] tab_manager_delegate_chromeos.cc:557 tab (id: 78, pid: 14932), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:42.800612] tab_manager_delegate_chromeos.cc:557 tab (id: 15, pid: 18654), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:42.800509] tab_manager_delegate_chromeos.cc:557 tab (id: 12, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:42.800390] tab_manager_delegate_chromeos.cc:557 tab (id: 7, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:42.800308] tab_manager_delegate_chromeos.cc:557 tab (id: 24, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:42.800222] tab_manager_delegate_chromeos.cc:557 tab (id: 72, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:42.800120] tab_manager_delegate_chromeos.cc:557 tab (id: 82, pid: 13075), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:42.799958] tab_manager_delegate_chromeos.cc:557 tab (id: 54, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:42.799655] tab_manager_delegate_chromeos.cc:557 tab (id: 85, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:42.798847] tab_manager_delegate_chromeos.cc:557 tab (id: 83, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:42.798555] tab_manager_delegate_chromeos.cc:557 tab (id: 84, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:42.798024] tab_manager_delegate_chromeos.cc:557 tab (id: 77, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:42.797598] tab_manager_delegate_chromeos.cc:557 tab (id: 81, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:42.795969] tab_manager_delegate_chromeos.cc:557 tab (id: 79, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:42.795864] tab_manager_delegate_chromeos.cc:557 tab (id: 68, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:42.795788] tab_manager_delegate_chromeos.cc:557 tab (id: 10, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:42.795714] tab_manager_delegate_chromeos.cc:557 tab (id: 74, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:42.795638] tab_manager_delegate_chromeos.cc:557 tab (id: 41, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:42.795556] tab_manager_delegate_chromeos.cc:557 tab (id: 11, pid: 21613), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:42.795471] tab_manager_delegate_chromeos.cc:557 tab (id: 9, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:42.795367] tab_manager_delegate_chromeos.cc:557 tab (id: 8, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:42.795288] tab_manager_delegate_chromeos.cc:557 tab (id: 6, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:42.795210] tab_manager_delegate_chromeos.cc:557 tab (id: 5, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:42.795123] tab_manager_delegate_chromeos.cc:557 tab (id: 18, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:42.795022] tab_manager_delegate_chromeos.cc:557 tab (id: 70, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:42.794924] tab_manager_delegate_chromeos.cc:557 tab (id: 69, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:42.794825] tab_manager_delegate_chromeos.cc:557 tab (id: 1, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:42.794708] tab_manager_delegate_chromeos.cc:557 tab (id: 67, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:42.794606] tab_manager_delegate_chromeos.cc:557 tab (id: 64, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:42.794527] tab_manager_delegate_chromeos.cc:557 tab (id: 63, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:42.794447] tab_manager_delegate_chromeos.cc:557 tab (id: 62, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:42.794370] tab_manager_delegate_chromeos.cc:557 tab (id: 47, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:42.794291] tab_manager_delegate_chromeos.cc:557 tab (id: 38, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:42.794198] tab_manager_delegate_chromeos.cc:557 tab (id: 26, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:42.794112] tab_manager_delegate_chromeos.cc:557 tab (id: 49, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:42.794008] tab_manager_delegate_chromeos.cc:557 tab (id: 45, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:42.793890] tab_manager_delegate_chromeos.cc:557 tab (id: 42, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:42.793780] tab_manager_delegate_chromeos.cc:557 tab (id: 43, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:42.793652] tab_manager_delegate_chromeos.cc:557 tab (id: 40, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:42.793561] tab_manager_delegate_chromeos.cc:557 tab (id: 37, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:42.793457] tab_manager_delegate_chromeos.cc:557 tab (id: 52, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:42.793371] tab_manager_delegate_chromeos.cc:557 tab (id: 55, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:42.793294] tab_manager_delegate_chromeos.cc:557 tab (id: 56, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:42.793202] tab_manager_delegate_chromeos.cc:557 tab (id: 51, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:42.793056] tab_manager_delegate_chromeos.cc:557 tab (id: 50, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:42.792735] tab_manager_delegate_chromeos.cc:557 tab (id: 2, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:42.792630] tab_manager_delegate_chromeos.cc:557 tab (id: 29, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:42.792552] tab_manager_delegate_chromeos.cc:557 tab (id: 3, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:42.792472] tab_manager_delegate_chromeos.cc:557 tab (id: 20, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:42.792393] tab_manager_delegate_chromeos.cc:557 tab (id: 17, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:42.792300] tab_manager_delegate_chromeos.cc:557 tab (id: 14, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:42.792160] tab_manager_delegate_chromeos.cc:557 tab (id: 13, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:42.791708] tab_manager_delegate_chromeos.cc:557 tab (id: 60, pid: 21931), process_type BACKGROUND
+
+MemoryError[2022/11/07 00:43:42.789733] tab_manager_delegate_chromeos.cc:554 List of low memory kill candidates (sorted from low priority to high priority):
+
+MemoryError[2022/11/07 00:43:40.109489] tab_manager_delegate_chromeos.cc:635 Time to first kill 0.32504 s
+
+MemoryError[2022/11/07 00:43:40.104655] tab_manager_delegate_chromeos.cc:567 Target memory to free: -878619 KB
+
+MemoryError[2022/11/07 00:43:40.104268] tab_manager_delegate_chromeos.cc:623 Killed tab (id: 86), estimated 883076 KB freed
+
+MemoryError[2022/11/07 00:43:39.791698] tab_manager_delegate_chromeos.cc:567 Target memory to free: 4457 KB
+
+MemoryError[2022/11/07 00:43:39.791598] tab_manager_delegate_chromeos.cc:557 tab (id: 16, pid: 18654), process_type FOCUSED_TAB
+
+MemoryError[2022/11/07 00:43:39.791511] tab_manager_delegate_chromeos.cc:557 tab (id: 87, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:39.791408] tab_manager_delegate_chromeos.cc:557 tab (id: 89, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:39.791283] tab_manager_delegate_chromeos.cc:557 tab (id: 66, pid: 31106), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:39.791178] tab_manager_delegate_chromeos.cc:557 tab (id: 65, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:39.791052] tab_manager_delegate_chromeos.cc:557 tab (id: 75, pid: 14945), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:39.790899] tab_manager_delegate_chromeos.cc:557 tab (id: 78, pid: 14932), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:39.790755] tab_manager_delegate_chromeos.cc:557 tab (id: 15, pid: 18654), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:39.790632] tab_manager_delegate_chromeos.cc:557 tab (id: 12, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:39.790480] tab_manager_delegate_chromeos.cc:557 tab (id: 7, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:39.790320] tab_manager_delegate_chromeos.cc:557 tab (id: 24, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:39.790216] tab_manager_delegate_chromeos.cc:557 tab (id: 72, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:39.790076] tab_manager_delegate_chromeos.cc:557 tab (id: 82, pid: 13075), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:39.789897] tab_manager_delegate_chromeos.cc:557 tab (id: 54, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:39.789796] tab_manager_delegate_chromeos.cc:557 tab (id: 85, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:39.789691] tab_manager_delegate_chromeos.cc:557 tab (id: 83, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:39.789577] tab_manager_delegate_chromeos.cc:557 tab (id: 84, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:39.789477] tab_manager_delegate_chromeos.cc:557 tab (id: 77, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:39.789360] tab_manager_delegate_chromeos.cc:557 tab (id: 81, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:39.789250] tab_manager_delegate_chromeos.cc:557 tab (id: 79, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:39.789140] tab_manager_delegate_chromeos.cc:557 tab (id: 68, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:39.789016] tab_manager_delegate_chromeos.cc:557 tab (id: 10, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:39.788865] tab_manager_delegate_chromeos.cc:557 tab (id: 74, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:39.788754] tab_manager_delegate_chromeos.cc:557 tab (id: 41, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:39.788632] tab_manager_delegate_chromeos.cc:557 tab (id: 11, pid: 21613), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:39.788481] tab_manager_delegate_chromeos.cc:557 tab (id: 9, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:39.788337] tab_manager_delegate_chromeos.cc:557 tab (id: 8, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:39.788212] tab_manager_delegate_chromeos.cc:557 tab (id: 6, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:39.788068] tab_manager_delegate_chromeos.cc:557 tab (id: 5, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:39.787864] tab_manager_delegate_chromeos.cc:557 tab (id: 18, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:39.787618] tab_manager_delegate_chromeos.cc:557 tab (id: 70, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:39.786890] tab_manager_delegate_chromeos.cc:557 tab (id: 69, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:39.786770] tab_manager_delegate_chromeos.cc:557 tab (id: 1, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:39.786671] tab_manager_delegate_chromeos.cc:557 tab (id: 67, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:39.786564] tab_manager_delegate_chromeos.cc:557 tab (id: 64, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:39.786433] tab_manager_delegate_chromeos.cc:557 tab (id: 63, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:39.786289] tab_manager_delegate_chromeos.cc:557 tab (id: 62, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:39.786181] tab_manager_delegate_chromeos.cc:557 tab (id: 47, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:39.786065] tab_manager_delegate_chromeos.cc:557 tab (id: 38, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:39.785891] tab_manager_delegate_chromeos.cc:557 tab (id: 26, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:39.785773] tab_manager_delegate_chromeos.cc:557 tab (id: 49, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:39.785682] tab_manager_delegate_chromeos.cc:557 tab (id: 45, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:39.785547] tab_manager_delegate_chromeos.cc:557 tab (id: 42, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:39.785397] tab_manager_delegate_chromeos.cc:557 tab (id: 43, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:39.785268] tab_manager_delegate_chromeos.cc:557 tab (id: 40, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:39.785150] tab_manager_delegate_chromeos.cc:557 tab (id: 37, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:39.785003] tab_manager_delegate_chromeos.cc:557 tab (id: 52, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:39.784849] tab_manager_delegate_chromeos.cc:557 tab (id: 55, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:39.784714] tab_manager_delegate_chromeos.cc:557 tab (id: 56, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:39.784593] tab_manager_delegate_chromeos.cc:557 tab (id: 51, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:39.784429] tab_manager_delegate_chromeos.cc:557 tab (id: 50, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:39.784313] tab_manager_delegate_chromeos.cc:557 tab (id: 2, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:39.784198] tab_manager_delegate_chromeos.cc:557 tab (id: 29, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:39.784026] tab_manager_delegate_chromeos.cc:557 tab (id: 3, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:39.783796] tab_manager_delegate_chromeos.cc:557 tab (id: 20, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:39.783667] tab_manager_delegate_chromeos.cc:557 tab (id: 17, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:39.783479] tab_manager_delegate_chromeos.cc:557 tab (id: 14, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:39.782760] tab_manager_delegate_chromeos.cc:557 tab (id: 13, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:43:39.782126] tab_manager_delegate_chromeos.cc:557 tab (id: 60, pid: 21931), process_type BACKGROUND
+
+MemoryError[2022/11/07 00:43:39.781647] tab_manager_delegate_chromeos.cc:557 tab (id: 86, pid: 18654), process_type BACKGROUND
+
+MemoryError[2022/11/07 00:43:39.778759] tab_manager_delegate_chromeos.cc:554 List of low memory kill candidates (sorted from low priority to high priority):
+
+PowerDebug[2022/11/07 00:43:33.208043] power_manager_client.cc:791 Received power supply poll signal.
+
+MemoryError[2022/11/07 00:42:31.039300] tab_manager_delegate_chromeos.cc:635 Time to first kill 0.256201 s
+
+MemoryError[2022/11/07 00:42:31.037552] tab_manager_delegate_chromeos.cc:567 Target memory to free: -953224 KB
+
+MemoryError[2022/11/07 00:42:31.036864] tab_manager_delegate_chromeos.cc:623 Killed tab (id: 87), estimated 956376 KB freed
+
+MemoryError[2022/11/07 00:42:30.820779] tab_manager_delegate_chromeos.cc:567 Target memory to free: 3152 KB
+
+MemoryError[2022/11/07 00:42:30.820700] tab_manager_delegate_chromeos.cc:557 tab (id: 16, pid: 18654), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:30.820624] tab_manager_delegate_chromeos.cc:557 tab (id: 89, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:30.820549] tab_manager_delegate_chromeos.cc:557 tab (id: 66, pid: 31106), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:30.820452] tab_manager_delegate_chromeos.cc:557 tab (id: 65, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:30.820375] tab_manager_delegate_chromeos.cc:557 tab (id: 75, pid: 14945), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:30.820276] tab_manager_delegate_chromeos.cc:557 tab (id: 78, pid: 14932), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:30.820199] tab_manager_delegate_chromeos.cc:557 tab (id: 15, pid: 18654), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:30.820129] tab_manager_delegate_chromeos.cc:557 tab (id: 12, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:30.820059] tab_manager_delegate_chromeos.cc:557 tab (id: 7, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:30.819978] tab_manager_delegate_chromeos.cc:557 tab (id: 24, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:30.819871] tab_manager_delegate_chromeos.cc:557 tab (id: 72, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:30.819801] tab_manager_delegate_chromeos.cc:557 tab (id: 82, pid: 13075), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:30.819727] tab_manager_delegate_chromeos.cc:557 tab (id: 54, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:30.819649] tab_manager_delegate_chromeos.cc:557 tab (id: 85, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:30.819569] tab_manager_delegate_chromeos.cc:557 tab (id: 83, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:30.819446] tab_manager_delegate_chromeos.cc:557 tab (id: 84, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:30.819344] tab_manager_delegate_chromeos.cc:557 tab (id: 77, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:30.819242] tab_manager_delegate_chromeos.cc:557 tab (id: 81, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:30.819169] tab_manager_delegate_chromeos.cc:557 tab (id: 79, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:30.819086] tab_manager_delegate_chromeos.cc:557 tab (id: 68, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:30.818995] tab_manager_delegate_chromeos.cc:557 tab (id: 10, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:30.818884] tab_manager_delegate_chromeos.cc:557 tab (id: 74, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:30.818812] tab_manager_delegate_chromeos.cc:557 tab (id: 41, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:30.818729] tab_manager_delegate_chromeos.cc:557 tab (id: 11, pid: 21613), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:30.818636] tab_manager_delegate_chromeos.cc:557 tab (id: 9, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:30.818493] tab_manager_delegate_chromeos.cc:557 tab (id: 8, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:30.816506] tab_manager_delegate_chromeos.cc:557 tab (id: 6, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:30.815813] tab_manager_delegate_chromeos.cc:557 tab (id: 5, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:30.815095] tab_manager_delegate_chromeos.cc:557 tab (id: 18, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:30.814891] tab_manager_delegate_chromeos.cc:557 tab (id: 70, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:30.814752] tab_manager_delegate_chromeos.cc:557 tab (id: 69, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:30.814671] tab_manager_delegate_chromeos.cc:557 tab (id: 1, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:30.814593] tab_manager_delegate_chromeos.cc:557 tab (id: 67, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:30.814497] tab_manager_delegate_chromeos.cc:557 tab (id: 64, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:30.814339] tab_manager_delegate_chromeos.cc:557 tab (id: 63, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:30.814262] tab_manager_delegate_chromeos.cc:557 tab (id: 62, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:30.814139] tab_manager_delegate_chromeos.cc:557 tab (id: 47, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:30.813731] tab_manager_delegate_chromeos.cc:557 tab (id: 38, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:30.810252] tab_manager_delegate_chromeos.cc:557 tab (id: 26, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:30.809985] tab_manager_delegate_chromeos.cc:557 tab (id: 49, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:30.809861] tab_manager_delegate_chromeos.cc:557 tab (id: 45, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:30.809785] tab_manager_delegate_chromeos.cc:557 tab (id: 42, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:30.809692] tab_manager_delegate_chromeos.cc:557 tab (id: 43, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:30.809567] tab_manager_delegate_chromeos.cc:557 tab (id: 40, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:30.809432] tab_manager_delegate_chromeos.cc:557 tab (id: 37, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:30.809352] tab_manager_delegate_chromeos.cc:557 tab (id: 52, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:30.809275] tab_manager_delegate_chromeos.cc:557 tab (id: 55, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:30.809051] tab_manager_delegate_chromeos.cc:557 tab (id: 56, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:30.806601] tab_manager_delegate_chromeos.cc:557 tab (id: 51, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:30.806500] tab_manager_delegate_chromeos.cc:557 tab (id: 50, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:30.806425] tab_manager_delegate_chromeos.cc:557 tab (id: 2, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:30.806313] tab_manager_delegate_chromeos.cc:557 tab (id: 29, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:30.806240] tab_manager_delegate_chromeos.cc:557 tab (id: 3, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:30.806130] tab_manager_delegate_chromeos.cc:557 tab (id: 20, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:30.805753] tab_manager_delegate_chromeos.cc:557 tab (id: 17, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:30.804229] tab_manager_delegate_chromeos.cc:557 tab (id: 14, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:30.804127] tab_manager_delegate_chromeos.cc:557 tab (id: 13, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:30.804005] tab_manager_delegate_chromeos.cc:557 tab (id: 60, pid: 21931), process_type BACKGROUND
+
+MemoryError[2022/11/07 00:42:30.803795] tab_manager_delegate_chromeos.cc:557 tab (id: 86, pid: 18654), process_type BACKGROUND
+
+MemoryError[2022/11/07 00:42:30.801711] tab_manager_delegate_chromeos.cc:557 tab (id: 87, pid: 18654), process_type BACKGROUND
+
+MemoryError[2022/11/07 00:42:30.795767] tab_manager_delegate_chromeos.cc:554 List of low memory kill candidates (sorted from low priority to high priority):
+
+MemoryError[2022/11/07 00:42:28.049618] tab_manager_delegate_chromeos.cc:635 Time to first kill 0.272397 s
+
+MemoryError[2022/11/07 00:42:28.049456] tab_manager_delegate_chromeos.cc:567 Target memory to free: -939736 KB
+
+MemoryError[2022/11/07 00:42:28.048846] tab_manager_delegate_chromeos.cc:623 Killed tab (id: 89), estimated 946244 KB freed
+
+MemoryError[2022/11/07 00:42:27.805491] tab_manager_delegate_chromeos.cc:567 Target memory to free: 6508 KB
+
+MemoryError[2022/11/07 00:42:27.804391] tab_manager_delegate_chromeos.cc:557 tab (id: 16, pid: 18654), process_type FOCUSED_TAB
+
+MemoryError[2022/11/07 00:42:27.804319] tab_manager_delegate_chromeos.cc:557 tab (id: 66, pid: 31106), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:27.804239] tab_manager_delegate_chromeos.cc:557 tab (id: 65, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:27.804140] tab_manager_delegate_chromeos.cc:557 tab (id: 75, pid: 14945), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:27.804051] tab_manager_delegate_chromeos.cc:557 tab (id: 78, pid: 14932), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:27.803864] tab_manager_delegate_chromeos.cc:557 tab (id: 15, pid: 18654), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:27.803576] tab_manager_delegate_chromeos.cc:557 tab (id: 12, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:27.803496] tab_manager_delegate_chromeos.cc:557 tab (id: 7, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:27.803395] tab_manager_delegate_chromeos.cc:557 tab (id: 24, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:27.803324] tab_manager_delegate_chromeos.cc:557 tab (id: 72, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:27.803249] tab_manager_delegate_chromeos.cc:557 tab (id: 82, pid: 13075), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:27.803166] tab_manager_delegate_chromeos.cc:557 tab (id: 54, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:27.803088] tab_manager_delegate_chromeos.cc:557 tab (id: 85, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:27.802995] tab_manager_delegate_chromeos.cc:557 tab (id: 83, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:27.802875] tab_manager_delegate_chromeos.cc:557 tab (id: 84, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:27.802785] tab_manager_delegate_chromeos.cc:557 tab (id: 77, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:27.802639] tab_manager_delegate_chromeos.cc:557 tab (id: 81, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:27.802378] tab_manager_delegate_chromeos.cc:557 tab (id: 79, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:27.802307] tab_manager_delegate_chromeos.cc:557 tab (id: 68, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:27.802228] tab_manager_delegate_chromeos.cc:557 tab (id: 10, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:27.802140] tab_manager_delegate_chromeos.cc:557 tab (id: 74, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:27.801999] tab_manager_delegate_chromeos.cc:557 tab (id: 41, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:27.801860] tab_manager_delegate_chromeos.cc:557 tab (id: 11, pid: 21613), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:27.801757] tab_manager_delegate_chromeos.cc:557 tab (id: 9, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:27.801623] tab_manager_delegate_chromeos.cc:557 tab (id: 8, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:27.801503] tab_manager_delegate_chromeos.cc:557 tab (id: 6, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:27.801368] tab_manager_delegate_chromeos.cc:557 tab (id: 5, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:27.801270] tab_manager_delegate_chromeos.cc:557 tab (id: 18, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:27.801163] tab_manager_delegate_chromeos.cc:557 tab (id: 70, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:27.801036] tab_manager_delegate_chromeos.cc:557 tab (id: 69, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:27.800944] tab_manager_delegate_chromeos.cc:557 tab (id: 1, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:27.800844] tab_manager_delegate_chromeos.cc:557 tab (id: 67, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:27.800739] tab_manager_delegate_chromeos.cc:557 tab (id: 64, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:27.800654] tab_manager_delegate_chromeos.cc:557 tab (id: 63, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:27.800543] tab_manager_delegate_chromeos.cc:557 tab (id: 62, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:27.800438] tab_manager_delegate_chromeos.cc:557 tab (id: 47, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:27.800329] tab_manager_delegate_chromeos.cc:557 tab (id: 38, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:27.800236] tab_manager_delegate_chromeos.cc:557 tab (id: 26, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:27.800131] tab_manager_delegate_chromeos.cc:557 tab (id: 49, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:27.800030] tab_manager_delegate_chromeos.cc:557 tab (id: 45, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:27.799933] tab_manager_delegate_chromeos.cc:557 tab (id: 42, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:27.799777] tab_manager_delegate_chromeos.cc:557 tab (id: 43, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:27.799578] tab_manager_delegate_chromeos.cc:557 tab (id: 40, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:27.799366] tab_manager_delegate_chromeos.cc:557 tab (id: 37, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:27.799244] tab_manager_delegate_chromeos.cc:557 tab (id: 52, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:27.799140] tab_manager_delegate_chromeos.cc:557 tab (id: 55, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:27.799012] tab_manager_delegate_chromeos.cc:557 tab (id: 56, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:27.798881] tab_manager_delegate_chromeos.cc:557 tab (id: 51, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:27.798808] tab_manager_delegate_chromeos.cc:557 tab (id: 50, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:27.798722] tab_manager_delegate_chromeos.cc:557 tab (id: 2, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:27.798590] tab_manager_delegate_chromeos.cc:557 tab (id: 29, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:27.798190] tab_manager_delegate_chromeos.cc:557 tab (id: 3, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:27.797679] tab_manager_delegate_chromeos.cc:557 tab (id: 20, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:27.797422] tab_manager_delegate_chromeos.cc:557 tab (id: 17, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:27.796946] tab_manager_delegate_chromeos.cc:557 tab (id: 14, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:27.796703] tab_manager_delegate_chromeos.cc:557 tab (id: 13, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:27.796582] tab_manager_delegate_chromeos.cc:557 tab (id: 60, pid: 21931), process_type BACKGROUND
+
+MemoryError[2022/11/07 00:42:27.796361] tab_manager_delegate_chromeos.cc:557 tab (id: 86, pid: 18654), process_type BACKGROUND
+
+MemoryError[2022/11/07 00:42:27.796127] tab_manager_delegate_chromeos.cc:557 tab (id: 87, pid: 18654), process_type BACKGROUND
+
+MemoryError[2022/11/07 00:42:27.795504] tab_manager_delegate_chromeos.cc:557 tab (id: 89, pid: 18654), process_type BACKGROUND
+
+MemoryError[2022/11/07 00:42:27.789556] tab_manager_delegate_chromeos.cc:554 List of low memory kill candidates (sorted from low priority to high priority):
+
+NetworkEvent[2022/11/07 00:42:14.299654] network_portal_detector_impl.cc:388 NetworkPortalDetector completed: id=ethernet_0, result=InternetConnected, status=2, response_code=204
+
+NetworkEvent[2022/11/07 00:42:14.223454] network_portal_detector_impl.cc:314 Starting captive portal detection.
+
+PowerDebug[2022/11/07 00:42:03.138303] power_manager_client.cc:791 Received power supply poll signal.
+
+MemoryError[2022/11/07 00:42:03.039972] tab_manager_delegate_chromeos.cc:635 Time to first kill 0.256108 s
+
+MemoryError[2022/11/07 00:42:03.039652] tab_manager_delegate_chromeos.cc:567 Target memory to free: -68958 KB
+
+MemoryError[2022/11/07 00:42:03.038303] tab_manager_delegate_chromeos.cc:623 Killed tab (id: 65), estimated 72988 KB freed
+
+MemoryError[2022/11/07 00:42:02.793794] tab_manager_delegate_chromeos.cc:567 Target memory to free: 4030 KB
+
+MemoryError[2022/11/07 00:42:02.793681] tab_manager_delegate_chromeos.cc:557 tab (id: 16, pid: 18654), process_type FOCUSED_TAB
+
+MemoryError[2022/11/07 00:42:02.793605] tab_manager_delegate_chromeos.cc:557 tab (id: 66, pid: 31106), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:02.793522] tab_manager_delegate_chromeos.cc:557 tab (id: 75, pid: 14945), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:02.793421] tab_manager_delegate_chromeos.cc:557 tab (id: 78, pid: 14932), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:02.793336] tab_manager_delegate_chromeos.cc:557 tab (id: 15, pid: 18654), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:02.793252] tab_manager_delegate_chromeos.cc:557 tab (id: 12, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:02.793151] tab_manager_delegate_chromeos.cc:557 tab (id: 7, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:02.793049] tab_manager_delegate_chromeos.cc:557 tab (id: 24, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:02.792954] tab_manager_delegate_chromeos.cc:557 tab (id: 72, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:02.792832] tab_manager_delegate_chromeos.cc:557 tab (id: 82, pid: 13075), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:02.792729] tab_manager_delegate_chromeos.cc:557 tab (id: 54, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:02.792652] tab_manager_delegate_chromeos.cc:557 tab (id: 85, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:02.792571] tab_manager_delegate_chromeos.cc:557 tab (id: 83, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:02.792472] tab_manager_delegate_chromeos.cc:557 tab (id: 84, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:02.792391] tab_manager_delegate_chromeos.cc:557 tab (id: 77, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:02.792283] tab_manager_delegate_chromeos.cc:557 tab (id: 81, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:02.792203] tab_manager_delegate_chromeos.cc:557 tab (id: 79, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:02.792102] tab_manager_delegate_chromeos.cc:557 tab (id: 68, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:02.792023] tab_manager_delegate_chromeos.cc:557 tab (id: 10, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:02.791923] tab_manager_delegate_chromeos.cc:557 tab (id: 74, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:02.791822] tab_manager_delegate_chromeos.cc:557 tab (id: 41, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:02.791717] tab_manager_delegate_chromeos.cc:557 tab (id: 11, pid: 21613), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:02.791628] tab_manager_delegate_chromeos.cc:557 tab (id: 9, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:02.791518] tab_manager_delegate_chromeos.cc:557 tab (id: 8, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:02.791436] tab_manager_delegate_chromeos.cc:557 tab (id: 6, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:02.791324] tab_manager_delegate_chromeos.cc:557 tab (id: 5, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:02.791220] tab_manager_delegate_chromeos.cc:557 tab (id: 18, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:02.791110] tab_manager_delegate_chromeos.cc:557 tab (id: 70, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:02.790989] tab_manager_delegate_chromeos.cc:557 tab (id: 69, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:02.790851] tab_manager_delegate_chromeos.cc:557 tab (id: 1, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:02.790762] tab_manager_delegate_chromeos.cc:557 tab (id: 67, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:02.790672] tab_manager_delegate_chromeos.cc:557 tab (id: 64, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:02.790592] tab_manager_delegate_chromeos.cc:557 tab (id: 63, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:02.790485] tab_manager_delegate_chromeos.cc:557 tab (id: 62, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:02.790382] tab_manager_delegate_chromeos.cc:557 tab (id: 47, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:02.790301] tab_manager_delegate_chromeos.cc:557 tab (id: 38, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:02.790212] tab_manager_delegate_chromeos.cc:557 tab (id: 26, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:02.790076] tab_manager_delegate_chromeos.cc:557 tab (id: 49, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:02.789966] tab_manager_delegate_chromeos.cc:557 tab (id: 45, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:02.789864] tab_manager_delegate_chromeos.cc:557 tab (id: 42, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:02.789783] tab_manager_delegate_chromeos.cc:557 tab (id: 43, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:02.789696] tab_manager_delegate_chromeos.cc:557 tab (id: 40, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:02.789619] tab_manager_delegate_chromeos.cc:557 tab (id: 37, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:02.789532] tab_manager_delegate_chromeos.cc:557 tab (id: 52, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:02.789423] tab_manager_delegate_chromeos.cc:557 tab (id: 55, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:02.789296] tab_manager_delegate_chromeos.cc:557 tab (id: 56, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:02.789218] tab_manager_delegate_chromeos.cc:557 tab (id: 51, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:02.789134] tab_manager_delegate_chromeos.cc:557 tab (id: 50, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:02.789036] tab_manager_delegate_chromeos.cc:557 tab (id: 2, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:02.788837] tab_manager_delegate_chromeos.cc:557 tab (id: 29, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:02.788460] tab_manager_delegate_chromeos.cc:557 tab (id: 3, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:02.788165] tab_manager_delegate_chromeos.cc:557 tab (id: 20, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:02.787854] tab_manager_delegate_chromeos.cc:557 tab (id: 17, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:02.787549] tab_manager_delegate_chromeos.cc:557 tab (id: 14, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:02.787469] tab_manager_delegate_chromeos.cc:557 tab (id: 13, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:42:02.787387] tab_manager_delegate_chromeos.cc:557 tab (id: 60, pid: 21931), process_type BACKGROUND
+
+MemoryError[2022/11/07 00:42:02.787266] tab_manager_delegate_chromeos.cc:557 tab (id: 86, pid: 18654), process_type BACKGROUND
+
+MemoryError[2022/11/07 00:42:02.786931] tab_manager_delegate_chromeos.cc:557 tab (id: 87, pid: 18654), process_type BACKGROUND
+
+MemoryError[2022/11/07 00:42:02.786398] tab_manager_delegate_chromeos.cc:557 tab (id: 89, pid: 18654), process_type BACKGROUND
+
+MemoryError[2022/11/07 00:42:02.785918] tab_manager_delegate_chromeos.cc:557 tab (id: 65, pid: 21641), process_type BACKGROUND
+
+MemoryError[2022/11/07 00:42:02.782208] tab_manager_delegate_chromeos.cc:554 List of low memory kill candidates (sorted from low priority to high priority):
+
+PowerUser[2022/11/07 00:41:57.888077] power_manager_client.cc:436 SetPolicy
+
+PowerDebug[2022/11/07 00:41:33.125541] power_manager_client.cc:791 Received power supply poll signal.
+
+PowerUser[2022/11/07 00:41:29.966755] power_manager_client.cc:436 SetPolicy
+
+CameraDebug[2022/11/07 00:41:26.405576] camera_hal_delegate.cc:267 Supported format: 160x120 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:41:26.405571] camera_hal_delegate.cc:267 Supported format: 176x144 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:41:26.405567] camera_hal_delegate.cc:267 Supported format: 320x240 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:41:26.405563] camera_hal_delegate.cc:267 Supported format: 352x288 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:41:26.405557] camera_hal_delegate.cc:267 Supported format: 640x480 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:41:26.405534] camera_hal_delegate.cc:267 Supported format: 1280x720 fps=30 format=PIXEL_FORMAT_NV12
+
+PowerUser[2022/11/07 00:41:26.064525] power_manager_client.cc:436 SetPolicy
+
+CameraDebug[2022/11/07 00:41:23.710826] camera_hal_delegate.cc:267 Supported format: 160x120 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:41:23.710821] camera_hal_delegate.cc:267 Supported format: 176x144 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:41:23.710816] camera_hal_delegate.cc:267 Supported format: 320x240 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:41:23.710811] camera_hal_delegate.cc:267 Supported format: 352x288 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:41:23.710805] camera_hal_delegate.cc:267 Supported format: 640x480 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:41:23.710768] camera_hal_delegate.cc:267 Supported format: 1280x720 fps=30 format=PIXEL_FORMAT_NV12
+
+PowerDebug[2022/11/07 00:41:03.115943] power_manager_client.cc:791 Received power supply poll signal.
+
+CameraDebug[2022/11/07 00:40:54.276355] camera_hal_delegate.cc:267 Supported format: 160x120 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:40:54.276341] camera_hal_delegate.cc:267 Supported format: 176x144 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:40:54.276336] camera_hal_delegate.cc:267 Supported format: 320x240 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:40:54.276332] camera_hal_delegate.cc:267 Supported format: 352x288 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:40:54.276326] camera_hal_delegate.cc:267 Supported format: 640x480 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:40:54.276290] camera_hal_delegate.cc:267 Supported format: 1280x720 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:40:53.363695] camera_hal_delegate.cc:267 Supported format: 160x120 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:40:53.363690] camera_hal_delegate.cc:267 Supported format: 176x144 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:40:53.363686] camera_hal_delegate.cc:267 Supported format: 320x240 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:40:53.363681] camera_hal_delegate.cc:267 Supported format: 352x288 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:40:53.363675] camera_hal_delegate.cc:267 Supported format: 640x480 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:40:53.363653] camera_hal_delegate.cc:267 Supported format: 1280x720 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:40:46.605627] camera_hal_delegate.cc:267 Supported format: 160x120 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:40:46.605622] camera_hal_delegate.cc:267 Supported format: 176x144 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:40:46.605617] camera_hal_delegate.cc:267 Supported format: 320x240 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:40:46.605612] camera_hal_delegate.cc:267 Supported format: 352x288 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:40:46.605607] camera_hal_delegate.cc:267 Supported format: 640x480 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:40:46.605594] camera_hal_delegate.cc:267 Supported format: 1280x720 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:40:46.597234] camera_hal_delegate.cc:267 Supported format: 160x120 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:40:46.597229] camera_hal_delegate.cc:267 Supported format: 176x144 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:40:46.597224] camera_hal_delegate.cc:267 Supported format: 320x240 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:40:46.597219] camera_hal_delegate.cc:267 Supported format: 352x288 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:40:46.597214] camera_hal_delegate.cc:267 Supported format: 640x480 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:40:46.597201] camera_hal_delegate.cc:267 Supported format: 1280x720 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:40:46.590296] camera_hal_delegate.cc:267 Supported format: 160x120 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:40:46.590291] camera_hal_delegate.cc:267 Supported format: 176x144 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:40:46.590284] camera_hal_delegate.cc:267 Supported format: 320x240 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:40:46.590280] camera_hal_delegate.cc:267 Supported format: 352x288 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:40:46.590275] camera_hal_delegate.cc:267 Supported format: 640x480 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:40:46.590263] camera_hal_delegate.cc:267 Supported format: 1280x720 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:40:46.588064] camera_hal_delegate.cc:267 Supported format: 160x120 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:40:46.588056] camera_hal_delegate.cc:267 Supported format: 176x144 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:40:46.588051] camera_hal_delegate.cc:267 Supported format: 320x240 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:40:46.588046] camera_hal_delegate.cc:267 Supported format: 352x288 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:40:46.588041] camera_hal_delegate.cc:267 Supported format: 640x480 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:40:46.588028] camera_hal_delegate.cc:267 Supported format: 1280x720 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:40:44.177750] camera_hal_delegate.cc:267 Supported format: 160x120 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:40:44.177744] camera_hal_delegate.cc:267 Supported format: 176x144 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:40:44.177739] camera_hal_delegate.cc:267 Supported format: 320x240 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:40:44.177730] camera_hal_delegate.cc:267 Supported format: 352x288 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:40:44.177693] camera_hal_delegate.cc:267 Supported format: 640x480 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:40:44.177649] camera_hal_delegate.cc:267 Supported format: 1280x720 fps=30 format=PIXEL_FORMAT_NV12
+
+PowerDebug[2022/11/07 00:40:33.096116] power_manager_client.cc:791 Received power supply poll signal.
+
+CameraDebug[2022/11/07 00:40:03.560831] camera_hal_delegate.cc:267 Supported format: 160x120 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:40:03.560825] camera_hal_delegate.cc:267 Supported format: 176x144 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:40:03.560817] camera_hal_delegate.cc:267 Supported format: 320x240 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:40:03.560813] camera_hal_delegate.cc:267 Supported format: 352x288 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:40:03.560808] camera_hal_delegate.cc:267 Supported format: 640x480 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:40:03.560799] camera_hal_delegate.cc:267 Supported format: 1280x720 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:40:03.557817] camera_hal_delegate.cc:267 Supported format: 160x120 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:40:03.557812] camera_hal_delegate.cc:267 Supported format: 176x144 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:40:03.557808] camera_hal_delegate.cc:267 Supported format: 320x240 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:40:03.557804] camera_hal_delegate.cc:267 Supported format: 352x288 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:40:03.557799] camera_hal_delegate.cc:267 Supported format: 640x480 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:40:03.557789] camera_hal_delegate.cc:267 Supported format: 1280x720 fps=30 format=PIXEL_FORMAT_NV12
+
+PowerDebug[2022/11/07 00:40:03.042257] power_manager_client.cc:791 Received power supply poll signal.
+
+CameraDebug[2022/11/07 00:40:01.664034] camera_hal_delegate.cc:267 Supported format: 160x120 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:40:01.664028] camera_hal_delegate.cc:267 Supported format: 176x144 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:40:01.664021] camera_hal_delegate.cc:267 Supported format: 320x240 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:40:01.664017] camera_hal_delegate.cc:267 Supported format: 352x288 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:40:01.664011] camera_hal_delegate.cc:267 Supported format: 640x480 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:40:01.663992] camera_hal_delegate.cc:267 Supported format: 1280x720 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:40:01.655505] camera_hal_delegate.cc:267 Supported format: 160x120 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:40:01.655500] camera_hal_delegate.cc:267 Supported format: 176x144 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:40:01.655496] camera_hal_delegate.cc:267 Supported format: 320x240 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:40:01.655492] camera_hal_delegate.cc:267 Supported format: 352x288 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:40:01.655487] camera_hal_delegate.cc:267 Supported format: 640x480 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:40:01.655473] camera_hal_delegate.cc:267 Supported format: 1280x720 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:39:50.299168] camera_hal_delegate.cc:267 Supported format: 160x120 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:39:50.299163] camera_hal_delegate.cc:267 Supported format: 176x144 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:39:50.299156] camera_hal_delegate.cc:267 Supported format: 320x240 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:39:50.299151] camera_hal_delegate.cc:267 Supported format: 352x288 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:39:50.299145] camera_hal_delegate.cc:267 Supported format: 640x480 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:39:50.299117] camera_hal_delegate.cc:267 Supported format: 1280x720 fps=30 format=PIXEL_FORMAT_NV12
+
+PowerDebug[2022/11/07 00:39:33.012598] power_manager_client.cc:791 Received power supply poll signal.
+
+PowerUser[2022/11/07 00:39:32.621117] power_manager_client.cc:436 SetPolicy
+
+PowerDebug[2022/11/07 00:39:03.002945] power_manager_client.cc:791 Received power supply poll signal.
+
+PowerUser[2022/11/07 00:37:50.815032] power_manager_client.cc:436 SetPolicy
+
+PowerDebug[2022/11/07 00:37:32.982665] power_manager_client.cc:791 Received power supply poll signal.
+
+PowerUser[2022/11/07 00:37:24.127386] power_manager_client.cc:436 SetPolicy
+
+NetworkEvent[2022/11/07 00:37:14.209569] network_portal_detector_impl.cc:388 NetworkPortalDetector completed: id=ethernet_0, result=InternetConnected, status=2, response_code=204
+
+NetworkEvent[2022/11/07 00:37:14.096759] network_portal_detector_impl.cc:314 Starting captive portal detection.
+
+PowerUser[2022/11/07 00:37:10.869876] power_manager_client.cc:436 SetPolicy
+
+PowerDebug[2022/11/07 00:37:02.978134] power_manager_client.cc:791 Received power supply poll signal.
+
+PowerUser[2022/11/07 00:35:57.285427] power_manager_client.cc:436 SetPolicy
+
+PowerDebug[2022/11/07 00:35:32.952879] power_manager_client.cc:791 Received power supply poll signal.
+
+CameraDebug[2022/11/07 00:32:41.041480] camera_hal_delegate.cc:267 Supported format: 160x120 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:32:41.041475] camera_hal_delegate.cc:267 Supported format: 176x144 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:32:41.041471] camera_hal_delegate.cc:267 Supported format: 320x240 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:32:41.041466] camera_hal_delegate.cc:267 Supported format: 352x288 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:32:41.041459] camera_hal_delegate.cc:267 Supported format: 640x480 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:32:41.041407] camera_hal_delegate.cc:267 Supported format: 1280x720 fps=30 format=PIXEL_FORMAT_NV12
+
+PowerDebug[2022/11/07 00:32:32.906793] power_manager_client.cc:791 Received power supply poll signal.
+
+NetworkEvent[2022/11/07 00:32:14.095398] network_portal_detector_impl.cc:388 NetworkPortalDetector completed: id=ethernet_0, result=InternetConnected, status=2, response_code=204
+
+NetworkEvent[2022/11/07 00:32:13.989316] network_portal_detector_impl.cc:314 Starting captive portal detection.
+
+PowerDebug[2022/11/07 00:32:02.909150] power_manager_client.cc:791 Received power supply poll signal.
+
+CameraDebug[2022/11/07 00:31:36.717475] camera_hal_delegate.cc:267 Supported format: 160x120 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:31:36.717467] camera_hal_delegate.cc:267 Supported format: 176x144 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:31:36.717463] camera_hal_delegate.cc:267 Supported format: 320x240 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:31:36.717458] camera_hal_delegate.cc:267 Supported format: 352x288 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:31:36.717452] camera_hal_delegate.cc:267 Supported format: 640x480 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:31:36.717434] camera_hal_delegate.cc:267 Supported format: 1280x720 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:31:36.715357] camera_hal_delegate.cc:267 Supported format: 160x120 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:31:36.715353] camera_hal_delegate.cc:267 Supported format: 176x144 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:31:36.715349] camera_hal_delegate.cc:267 Supported format: 320x240 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:31:36.715344] camera_hal_delegate.cc:267 Supported format: 352x288 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:31:36.715339] camera_hal_delegate.cc:267 Supported format: 640x480 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:31:36.715327] camera_hal_delegate.cc:267 Supported format: 1280x720 fps=30 format=PIXEL_FORMAT_NV12
+
+PowerDebug[2022/11/07 00:31:32.893180] power_manager_client.cc:791 Received power supply poll signal.
+
+NetworkEvent[2022/11/07 00:27:13.974453] network_portal_detector_impl.cc:388 NetworkPortalDetector completed: id=ethernet_0, result=InternetConnected, status=2, response_code=204
+
+NetworkEvent[2022/11/07 00:27:13.883536] network_portal_detector_impl.cc:314 Starting captive portal detection.
+
+PowerDebug[2022/11/07 00:27:02.823394] power_manager_client.cc:791 Received power supply poll signal.
+
+PowerUser[2022/11/07 00:26:41.557325] power_manager_client.cc:436 SetPolicy
+
+PowerDebug[2022/11/07 00:26:32.815886] power_manager_client.cc:791 Received power supply poll signal.
+
+NetworkEvent[2022/11/07 00:22:13.881624] network_portal_detector_impl.cc:388 NetworkPortalDetector completed: id=ethernet_0, result=InternetConnected, status=2, response_code=204
+
+NetworkEvent[2022/11/07 00:22:13.766132] network_portal_detector_impl.cc:314 Starting captive portal detection.
+
+PowerDebug[2022/11/07 00:22:02.750818] power_manager_client.cc:791 Received power supply poll signal.
+
+MemoryError[2022/11/07 00:19:36.879680] tab_manager_delegate_chromeos.cc:635 Time to first kill 0.107202 s
+
+MemoryError[2022/11/07 00:19:36.879565] tab_manager_delegate_chromeos.cc:567 Target memory to free: -1288576 KB
+
+MemoryError[2022/11/07 00:19:36.879170] tab_manager_delegate_chromeos.cc:623 Killed tab (id: 68), estimated 1289256 KB freed
+
+MemoryError[2022/11/07 00:19:36.823141] tab_manager_delegate_chromeos.cc:567 Target memory to free: 680 KB
+
+MemoryError[2022/11/07 00:19:36.822986] tab_lifecycle_unit.cc:558 Skipped discarding unit 10 because a transition from DISCARDEDto discarded is not allowed.
+
+MemoryError[2022/11/07 00:19:36.822633] tab_manager_delegate_chromeos.cc:567 Target memory to free: 680 KB
+
+MemoryError[2022/11/07 00:19:36.822470] tab_lifecycle_unit.cc:558 Skipped discarding unit 74 because a transition from DISCARDEDto discarded is not allowed.
+
+MemoryError[2022/11/07 00:19:36.822150] tab_manager_delegate_chromeos.cc:567 Target memory to free: 680 KB
+
+MemoryError[2022/11/07 00:19:36.821963] tab_lifecycle_unit.cc:558 Skipped discarding unit 41 because a transition from DISCARDEDto discarded is not allowed.
+
+MemoryError[2022/11/07 00:19:36.821620] tab_manager_delegate_chromeos.cc:567 Target memory to free: 680 KB
+
+MemoryError[2022/11/07 00:19:36.821436] tab_lifecycle_unit.cc:558 Skipped discarding unit 11 because a transition from DISCARDEDto discarded is not allowed.
+
+MemoryError[2022/11/07 00:19:36.821094] tab_manager_delegate_chromeos.cc:567 Target memory to free: 680 KB
+
+MemoryError[2022/11/07 00:19:36.820890] tab_lifecycle_unit.cc:558 Skipped discarding unit 9 because a transition from DISCARDEDto discarded is not allowed.
+
+MemoryError[2022/11/07 00:19:36.820563] tab_manager_delegate_chromeos.cc:567 Target memory to free: 680 KB
+
+MemoryError[2022/11/07 00:19:36.820386] tab_lifecycle_unit.cc:558 Skipped discarding unit 8 because a transition from DISCARDEDto discarded is not allowed.
+
+MemoryError[2022/11/07 00:19:36.820052] tab_manager_delegate_chromeos.cc:567 Target memory to free: 680 KB
+
+MemoryError[2022/11/07 00:19:36.819788] tab_lifecycle_unit.cc:558 Skipped discarding unit 6 because a transition from DISCARDEDto discarded is not allowed.
+
+MemoryError[2022/11/07 00:19:36.818888] tab_manager_delegate_chromeos.cc:567 Target memory to free: 680 KB
+
+MemoryError[2022/11/07 00:19:36.818618] tab_lifecycle_unit.cc:558 Skipped discarding unit 5 because a transition from DISCARDEDto discarded is not allowed.
+
+MemoryError[2022/11/07 00:19:36.818092] tab_manager_delegate_chromeos.cc:567 Target memory to free: 680 KB
+
+MemoryError[2022/11/07 00:19:36.817777] tab_lifecycle_unit.cc:558 Skipped discarding unit 18 because a transition from DISCARDEDto discarded is not allowed.
+
+MemoryError[2022/11/07 00:19:36.817405] tab_manager_delegate_chromeos.cc:567 Target memory to free: 680 KB
+
+MemoryError[2022/11/07 00:19:36.817145] tab_lifecycle_unit.cc:558 Skipped discarding unit 70 because a transition from DISCARDEDto discarded is not allowed.
+
+MemoryError[2022/11/07 00:19:36.816561] tab_manager_delegate_chromeos.cc:567 Target memory to free: 680 KB
+
+MemoryError[2022/11/07 00:19:36.816262] tab_lifecycle_unit.cc:558 Skipped discarding unit 69 because a transition from DISCARDEDto discarded is not allowed.
+
+MemoryError[2022/11/07 00:19:36.815936] tab_manager_delegate_chromeos.cc:567 Target memory to free: 680 KB
+
+MemoryError[2022/11/07 00:19:36.815783] tab_lifecycle_unit.cc:558 Skipped discarding unit 1 because a transition from DISCARDEDto discarded is not allowed.
+
+MemoryError[2022/11/07 00:19:36.815491] tab_manager_delegate_chromeos.cc:567 Target memory to free: 680 KB
+
+MemoryError[2022/11/07 00:19:36.815351] tab_lifecycle_unit.cc:558 Skipped discarding unit 67 because a transition from DISCARDEDto discarded is not allowed.
+
+MemoryError[2022/11/07 00:19:36.815003] tab_manager_delegate_chromeos.cc:567 Target memory to free: 680 KB
+
+MemoryError[2022/11/07 00:19:36.814801] tab_lifecycle_unit.cc:558 Skipped discarding unit 65 because a transition from DISCARDEDto discarded is not allowed.
+
+MemoryError[2022/11/07 00:19:36.814489] tab_manager_delegate_chromeos.cc:567 Target memory to free: 680 KB
+
+MemoryError[2022/11/07 00:19:36.814321] tab_lifecycle_unit.cc:558 Skipped discarding unit 64 because a transition from DISCARDEDto discarded is not allowed.
+
+MemoryError[2022/11/07 00:19:36.813980] tab_manager_delegate_chromeos.cc:567 Target memory to free: 680 KB
+
+MemoryError[2022/11/07 00:19:36.813760] tab_lifecycle_unit.cc:558 Skipped discarding unit 63 because a transition from DISCARDEDto discarded is not allowed.
+
+MemoryError[2022/11/07 00:19:36.813462] tab_manager_delegate_chromeos.cc:567 Target memory to free: 680 KB
+
+MemoryError[2022/11/07 00:19:36.813278] tab_lifecycle_unit.cc:558 Skipped discarding unit 62 because a transition from DISCARDEDto discarded is not allowed.
+
+MemoryError[2022/11/07 00:19:36.812808] tab_manager_delegate_chromeos.cc:567 Target memory to free: 680 KB
+
+MemoryError[2022/11/07 00:19:36.812359] tab_lifecycle_unit.cc:558 Skipped discarding unit 47 because a transition from DISCARDEDto discarded is not allowed.
+
+MemoryError[2022/11/07 00:19:36.811813] tab_manager_delegate_chromeos.cc:567 Target memory to free: 680 KB
+
+MemoryError[2022/11/07 00:19:36.811664] tab_lifecycle_unit.cc:558 Skipped discarding unit 16 because a transition from DISCARDEDto discarded is not allowed.
+
+MemoryError[2022/11/07 00:19:36.811349] tab_manager_delegate_chromeos.cc:567 Target memory to free: 680 KB
+
+MemoryError[2022/11/07 00:19:36.811162] tab_lifecycle_unit.cc:558 Skipped discarding unit 38 because a transition from DISCARDEDto discarded is not allowed.
+
+MemoryError[2022/11/07 00:19:36.810805] tab_manager_delegate_chromeos.cc:567 Target memory to free: 680 KB
+
+MemoryError[2022/11/07 00:19:36.810651] tab_lifecycle_unit.cc:558 Skipped discarding unit 26 because a transition from DISCARDEDto discarded is not allowed.
+
+MemoryError[2022/11/07 00:19:36.810305] tab_manager_delegate_chromeos.cc:567 Target memory to free: 680 KB
+
+MemoryError[2022/11/07 00:19:36.809955] tab_lifecycle_unit.cc:558 Skipped discarding unit 49 because a transition from DISCARDEDto discarded is not allowed.
+
+MemoryError[2022/11/07 00:19:36.809126] tab_manager_delegate_chromeos.cc:567 Target memory to free: 680 KB
+
+MemoryError[2022/11/07 00:19:36.808811] tab_lifecycle_unit.cc:558 Skipped discarding unit 45 because a transition from DISCARDEDto discarded is not allowed.
+
+MemoryError[2022/11/07 00:19:36.808392] tab_manager_delegate_chromeos.cc:567 Target memory to free: 680 KB
+
+MemoryError[2022/11/07 00:19:36.808143] tab_lifecycle_unit.cc:558 Skipped discarding unit 42 because a transition from DISCARDEDto discarded is not allowed.
+
+MemoryError[2022/11/07 00:19:36.807768] tab_manager_delegate_chromeos.cc:567 Target memory to free: 680 KB
+
+MemoryError[2022/11/07 00:19:36.807577] tab_lifecycle_unit.cc:558 Skipped discarding unit 43 because a transition from DISCARDEDto discarded is not allowed.
+
+MemoryError[2022/11/07 00:19:36.807261] tab_manager_delegate_chromeos.cc:567 Target memory to free: 680 KB
+
+MemoryError[2022/11/07 00:19:36.807056] tab_lifecycle_unit.cc:558 Skipped discarding unit 40 because a transition from DISCARDEDto discarded is not allowed.
+
+MemoryError[2022/11/07 00:19:36.806623] tab_manager_delegate_chromeos.cc:567 Target memory to free: 680 KB
+
+MemoryError[2022/11/07 00:19:36.806373] tab_lifecycle_unit.cc:558 Skipped discarding unit 37 because a transition from DISCARDEDto discarded is not allowed.
+
+MemoryError[2022/11/07 00:19:36.805858] tab_manager_delegate_chromeos.cc:567 Target memory to free: 680 KB
+
+MemoryError[2022/11/07 00:19:36.805719] tab_lifecycle_unit.cc:558 Skipped discarding unit 52 because a transition from DISCARDEDto discarded is not allowed.
+
+MemoryError[2022/11/07 00:19:36.805403] tab_manager_delegate_chromeos.cc:567 Target memory to free: 680 KB
+
+MemoryError[2022/11/07 00:19:36.805209] tab_lifecycle_unit.cc:558 Skipped discarding unit 55 because a transition from DISCARDEDto discarded is not allowed.
+
+MemoryError[2022/11/07 00:19:36.804860] tab_manager_delegate_chromeos.cc:567 Target memory to free: 680 KB
+
+MemoryError[2022/11/07 00:19:36.804720] tab_lifecycle_unit.cc:558 Skipped discarding unit 56 because a transition from DISCARDEDto discarded is not allowed.
+
+MemoryError[2022/11/07 00:19:36.804409] tab_manager_delegate_chromeos.cc:567 Target memory to free: 680 KB
+
+MemoryError[2022/11/07 00:19:36.804271] tab_lifecycle_unit.cc:558 Skipped discarding unit 51 because a transition from DISCARDEDto discarded is not allowed.
+
+MemoryError[2022/11/07 00:19:36.803934] tab_manager_delegate_chromeos.cc:567 Target memory to free: 680 KB
+
+MemoryError[2022/11/07 00:19:36.803782] tab_lifecycle_unit.cc:558 Skipped discarding unit 50 because a transition from DISCARDEDto discarded is not allowed.
+
+MemoryError[2022/11/07 00:19:36.803472] tab_manager_delegate_chromeos.cc:567 Target memory to free: 680 KB
+
+MemoryError[2022/11/07 00:19:36.803333] tab_lifecycle_unit.cc:558 Skipped discarding unit 2 because a transition from DISCARDEDto discarded is not allowed.
+
+MemoryError[2022/11/07 00:19:36.803010] tab_manager_delegate_chromeos.cc:567 Target memory to free: 680 KB
+
+MemoryError[2022/11/07 00:19:36.802839] tab_lifecycle_unit.cc:558 Skipped discarding unit 29 because a transition from DISCARDEDto discarded is not allowed.
+
+MemoryError[2022/11/07 00:19:36.802493] tab_manager_delegate_chromeos.cc:567 Target memory to free: 680 KB
+
+MemoryError[2022/11/07 00:19:36.802261] tab_lifecycle_unit.cc:558 Skipped discarding unit 3 because a transition from DISCARDEDto discarded is not allowed.
+
+MemoryError[2022/11/07 00:19:36.801851] tab_manager_delegate_chromeos.cc:567 Target memory to free: 680 KB
+
+MemoryError[2022/11/07 00:19:36.801655] tab_lifecycle_unit.cc:558 Skipped discarding unit 20 because a transition from DISCARDEDto discarded is not allowed.
+
+MemoryError[2022/11/07 00:19:36.801272] tab_manager_delegate_chromeos.cc:567 Target memory to free: 680 KB
+
+MemoryError[2022/11/07 00:19:36.801049] tab_lifecycle_unit.cc:558 Skipped discarding unit 17 because a transition from DISCARDEDto discarded is not allowed.
+
+MemoryError[2022/11/07 00:19:36.800572] tab_manager_delegate_chromeos.cc:567 Target memory to free: 680 KB
+
+MemoryError[2022/11/07 00:19:36.800303] tab_lifecycle_unit.cc:558 Skipped discarding unit 14 because a transition from DISCARDEDto discarded is not allowed.
+
+MemoryError[2022/11/07 00:19:36.799412] tab_manager_delegate_chromeos.cc:567 Target memory to free: 680 KB
+
+MemoryError[2022/11/07 00:19:36.798682] tab_lifecycle_unit.cc:558 Skipped discarding unit 13 because a transition from DISCARDEDto discarded is not allowed.
+
+MemoryError[2022/11/07 00:19:36.786797] tab_manager_delegate_chromeos.cc:567 Target memory to free: 680 KB
+
+MemoryError[2022/11/07 00:19:36.786688] tab_manager_delegate_chromeos.cc:557 tab (id: 87, pid: 18654), process_type FOCUSED_TAB
+
+MemoryError[2022/11/07 00:19:36.786586] tab_manager_delegate_chromeos.cc:557 tab (id: 15, pid: 18654), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:36.786420] tab_manager_delegate_chromeos.cc:557 tab (id: 86, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:36.785984] tab_manager_delegate_chromeos.cc:557 tab (id: 66, pid: 31106), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:36.784781] tab_manager_delegate_chromeos.cc:557 tab (id: 75, pid: 14945), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:36.784676] tab_manager_delegate_chromeos.cc:557 tab (id: 12, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:36.784585] tab_manager_delegate_chromeos.cc:557 tab (id: 7, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:36.784496] tab_manager_delegate_chromeos.cc:557 tab (id: 24, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:36.784360] tab_manager_delegate_chromeos.cc:557 tab (id: 78, pid: 14932), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:36.784236] tab_manager_delegate_chromeos.cc:557 tab (id: 72, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:36.784139] tab_manager_delegate_chromeos.cc:557 tab (id: 60, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:36.783998] tab_manager_delegate_chromeos.cc:557 tab (id: 82, pid: 13075), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:36.783868] tab_manager_delegate_chromeos.cc:557 tab (id: 54, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:36.783740] tab_manager_delegate_chromeos.cc:557 tab (id: 85, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:36.783626] tab_manager_delegate_chromeos.cc:557 tab (id: 83, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:36.783512] tab_manager_delegate_chromeos.cc:557 tab (id: 84, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:36.783382] tab_manager_delegate_chromeos.cc:557 tab (id: 77, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:36.783264] tab_manager_delegate_chromeos.cc:557 tab (id: 81, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:36.783103] tab_manager_delegate_chromeos.cc:557 tab (id: 79, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:36.782961] tab_manager_delegate_chromeos.cc:557 tab (id: 68, pid: 31106), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:36.782810] tab_manager_delegate_chromeos.cc:557 tab (id: 10, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:36.782682] tab_manager_delegate_chromeos.cc:557 tab (id: 74, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:36.782593] tab_manager_delegate_chromeos.cc:557 tab (id: 41, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:36.782454] tab_manager_delegate_chromeos.cc:557 tab (id: 11, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:36.782319] tab_manager_delegate_chromeos.cc:557 tab (id: 9, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:36.782175] tab_manager_delegate_chromeos.cc:557 tab (id: 8, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:36.781974] tab_manager_delegate_chromeos.cc:557 tab (id: 6, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:36.781817] tab_manager_delegate_chromeos.cc:557 tab (id: 5, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:36.781719] tab_manager_delegate_chromeos.cc:557 tab (id: 18, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:36.781551] tab_manager_delegate_chromeos.cc:557 tab (id: 70, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:36.781426] tab_manager_delegate_chromeos.cc:557 tab (id: 69, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:36.781346] tab_manager_delegate_chromeos.cc:557 tab (id: 1, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:36.781232] tab_manager_delegate_chromeos.cc:557 tab (id: 67, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:36.780793] tab_manager_delegate_chromeos.cc:557 tab (id: 65, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:36.778681] tab_manager_delegate_chromeos.cc:557 tab (id: 64, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:36.778601] tab_manager_delegate_chromeos.cc:557 tab (id: 63, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:36.778514] tab_manager_delegate_chromeos.cc:557 tab (id: 62, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:36.778411] tab_manager_delegate_chromeos.cc:557 tab (id: 47, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:36.778327] tab_manager_delegate_chromeos.cc:557 tab (id: 16, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:36.778197] tab_manager_delegate_chromeos.cc:557 tab (id: 38, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:36.778091] tab_manager_delegate_chromeos.cc:557 tab (id: 26, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:36.777932] tab_manager_delegate_chromeos.cc:557 tab (id: 49, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:36.777775] tab_manager_delegate_chromeos.cc:557 tab (id: 45, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:36.777647] tab_manager_delegate_chromeos.cc:557 tab (id: 42, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:36.777317] tab_manager_delegate_chromeos.cc:557 tab (id: 43, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:36.776828] tab_manager_delegate_chromeos.cc:557 tab (id: 40, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:36.776748] tab_manager_delegate_chromeos.cc:557 tab (id: 37, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:36.776659] tab_manager_delegate_chromeos.cc:557 tab (id: 52, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:36.776547] tab_manager_delegate_chromeos.cc:557 tab (id: 55, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:36.776423] tab_manager_delegate_chromeos.cc:557 tab (id: 56, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:36.776296] tab_manager_delegate_chromeos.cc:557 tab (id: 51, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:36.776180] tab_manager_delegate_chromeos.cc:557 tab (id: 50, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:36.776025] tab_manager_delegate_chromeos.cc:557 tab (id: 2, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:36.775878] tab_manager_delegate_chromeos.cc:557 tab (id: 29, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:36.775761] tab_manager_delegate_chromeos.cc:557 tab (id: 3, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:36.775624] tab_manager_delegate_chromeos.cc:557 tab (id: 20, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:36.775521] tab_manager_delegate_chromeos.cc:557 tab (id: 17, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:36.775426] tab_manager_delegate_chromeos.cc:557 tab (id: 14, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:36.775202] tab_manager_delegate_chromeos.cc:557 tab (id: 13, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:36.773000] tab_manager_delegate_chromeos.cc:554 List of low memory kill candidates (sorted from low priority to high priority):
+
+MemoryError[2022/11/07 00:19:20.896447] tab_manager_delegate_chromeos.cc:635 Time to first kill 0.11471 s
+
+MemoryError[2022/11/07 00:19:20.896330] tab_manager_delegate_chromeos.cc:567 Target memory to free: -498798 KB
+
+MemoryError[2022/11/07 00:19:20.895935] tab_manager_delegate_chromeos.cc:623 Killed tab (id: 86), estimated 501656 KB freed
+
+MemoryError[2022/11/07 00:19:20.794826] tab_manager_delegate_chromeos.cc:567 Target memory to free: 2858 KB
+
+MemoryError[2022/11/07 00:19:20.794196] tab_manager_delegate_chromeos.cc:557 tab (id: 87, pid: 18654), process_type FOCUSED_TAB
+
+MemoryError[2022/11/07 00:19:20.794120] tab_manager_delegate_chromeos.cc:557 tab (id: 15, pid: 18654), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:20.794039] tab_manager_delegate_chromeos.cc:557 tab (id: 66, pid: 31106), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:20.793944] tab_manager_delegate_chromeos.cc:557 tab (id: 75, pid: 14945), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:20.793847] tab_manager_delegate_chromeos.cc:557 tab (id: 12, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:20.793773] tab_manager_delegate_chromeos.cc:557 tab (id: 7, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:20.793699] tab_manager_delegate_chromeos.cc:557 tab (id: 24, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:20.793622] tab_manager_delegate_chromeos.cc:557 tab (id: 78, pid: 14932), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:20.793549] tab_manager_delegate_chromeos.cc:557 tab (id: 72, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:20.793477] tab_manager_delegate_chromeos.cc:557 tab (id: 60, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:20.793402] tab_manager_delegate_chromeos.cc:557 tab (id: 82, pid: 13075), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:20.793328] tab_manager_delegate_chromeos.cc:557 tab (id: 54, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:20.793253] tab_manager_delegate_chromeos.cc:557 tab (id: 85, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:20.793180] tab_manager_delegate_chromeos.cc:557 tab (id: 83, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:20.793107] tab_manager_delegate_chromeos.cc:557 tab (id: 84, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:20.793035] tab_manager_delegate_chromeos.cc:557 tab (id: 77, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:20.792955] tab_manager_delegate_chromeos.cc:557 tab (id: 81, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:20.792861] tab_manager_delegate_chromeos.cc:557 tab (id: 79, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:20.792783] tab_manager_delegate_chromeos.cc:557 tab (id: 68, pid: 31106), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:20.792708] tab_manager_delegate_chromeos.cc:557 tab (id: 10, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:20.792634] tab_manager_delegate_chromeos.cc:557 tab (id: 74, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:20.792559] tab_manager_delegate_chromeos.cc:557 tab (id: 41, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:20.792485] tab_manager_delegate_chromeos.cc:557 tab (id: 11, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:20.792404] tab_manager_delegate_chromeos.cc:557 tab (id: 9, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:20.792293] tab_manager_delegate_chromeos.cc:557 tab (id: 8, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:20.792218] tab_manager_delegate_chromeos.cc:557 tab (id: 6, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:20.792141] tab_manager_delegate_chromeos.cc:557 tab (id: 5, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:20.792066] tab_manager_delegate_chromeos.cc:557 tab (id: 18, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:20.791977] tab_manager_delegate_chromeos.cc:557 tab (id: 70, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:20.791865] tab_manager_delegate_chromeos.cc:557 tab (id: 69, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:20.791791] tab_manager_delegate_chromeos.cc:557 tab (id: 1, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:20.791718] tab_manager_delegate_chromeos.cc:557 tab (id: 67, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:20.791644] tab_manager_delegate_chromeos.cc:557 tab (id: 65, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:20.791571] tab_manager_delegate_chromeos.cc:557 tab (id: 64, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:20.791495] tab_manager_delegate_chromeos.cc:557 tab (id: 63, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:20.791421] tab_manager_delegate_chromeos.cc:557 tab (id: 62, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:20.791346] tab_manager_delegate_chromeos.cc:557 tab (id: 47, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:20.791269] tab_manager_delegate_chromeos.cc:557 tab (id: 16, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:20.791169] tab_manager_delegate_chromeos.cc:557 tab (id: 38, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:20.791094] tab_manager_delegate_chromeos.cc:557 tab (id: 26, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:20.791015] tab_manager_delegate_chromeos.cc:557 tab (id: 49, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:20.790927] tab_manager_delegate_chromeos.cc:557 tab (id: 45, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:20.790831] tab_manager_delegate_chromeos.cc:557 tab (id: 42, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:20.790757] tab_manager_delegate_chromeos.cc:557 tab (id: 43, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:20.790674] tab_manager_delegate_chromeos.cc:557 tab (id: 40, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:20.790468] tab_manager_delegate_chromeos.cc:557 tab (id: 37, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:20.790065] tab_manager_delegate_chromeos.cc:557 tab (id: 52, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:20.789979] tab_manager_delegate_chromeos.cc:557 tab (id: 55, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:20.789856] tab_manager_delegate_chromeos.cc:557 tab (id: 56, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:20.789756] tab_manager_delegate_chromeos.cc:557 tab (id: 51, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:20.789684] tab_manager_delegate_chromeos.cc:557 tab (id: 50, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:20.789609] tab_manager_delegate_chromeos.cc:557 tab (id: 2, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:20.789510] tab_manager_delegate_chromeos.cc:557 tab (id: 29, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:20.789439] tab_manager_delegate_chromeos.cc:557 tab (id: 3, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:20.789366] tab_manager_delegate_chromeos.cc:557 tab (id: 20, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:20.789292] tab_manager_delegate_chromeos.cc:557 tab (id: 17, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:20.789174] tab_manager_delegate_chromeos.cc:557 tab (id: 14, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:20.789072] tab_manager_delegate_chromeos.cc:557 tab (id: 13, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:19:20.788623] tab_manager_delegate_chromeos.cc:557 tab (id: 86, pid: 18654), process_type BACKGROUND
+
+MemoryError[2022/11/07 00:19:20.780862] tab_manager_delegate_chromeos.cc:554 List of low memory kill candidates (sorted from low priority to high priority):
+
+PowerDebug[2022/11/07 00:19:17.123433] power_manager_client.cc:791 Received power supply poll signal.
+
+CameraDebug[2022/11/07 00:19:16.373348] camera_hal_delegate.cc:267 Supported format: 160x120 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:19:16.373340] camera_hal_delegate.cc:267 Supported format: 176x144 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:19:16.373335] camera_hal_delegate.cc:267 Supported format: 320x240 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:19:16.373331] camera_hal_delegate.cc:267 Supported format: 352x288 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:19:16.373325] camera_hal_delegate.cc:267 Supported format: 640x480 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:19:16.373300] camera_hal_delegate.cc:267 Supported format: 1280x720 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:19:16.368981] camera_hal_delegate.cc:267 Supported format: 160x120 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:19:16.368977] camera_hal_delegate.cc:267 Supported format: 176x144 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:19:16.368972] camera_hal_delegate.cc:267 Supported format: 320x240 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:19:16.368968] camera_hal_delegate.cc:267 Supported format: 352x288 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:19:16.368963] camera_hal_delegate.cc:267 Supported format: 640x480 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:19:16.368947] camera_hal_delegate.cc:267 Supported format: 1280x720 fps=30 format=PIXEL_FORMAT_NV12
+
+PowerDebug[2022/11/07 00:18:47.119673] power_manager_client.cc:791 Received power supply poll signal.
+
+CameraDebug[2022/11/07 00:18:26.869823] camera_hal_delegate.cc:267 Supported format: 160x120 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:18:26.869814] camera_hal_delegate.cc:267 Supported format: 176x144 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:18:26.869810] camera_hal_delegate.cc:267 Supported format: 320x240 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:18:26.869805] camera_hal_delegate.cc:267 Supported format: 352x288 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:18:26.869800] camera_hal_delegate.cc:267 Supported format: 640x480 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:18:26.869778] camera_hal_delegate.cc:267 Supported format: 1280x720 fps=30 format=PIXEL_FORMAT_NV12
+
+PowerDebug[2022/11/07 00:18:17.103040] power_manager_client.cc:791 Received power supply poll signal.
+
+MemoryError[2022/11/07 00:17:25.861196] tab_manager_delegate_chromeos.cc:635 Time to first kill 0.090033 s
+
+MemoryError[2022/11/07 00:17:25.861086] tab_manager_delegate_chromeos.cc:567 Target memory to free: -1344928 KB
+
+MemoryError[2022/11/07 00:17:25.860659] tab_manager_delegate_chromeos.cc:623 Killed tab (id: 74), estimated 1354100 KB freed
+
+MemoryError[2022/11/07 00:17:25.808702] tab_manager_delegate_chromeos.cc:567 Target memory to free: 9172 KB
+
+MemoryError[2022/11/07 00:17:25.808285] tab_lifecycle_unit.cc:558 Skipped discarding unit 41 because a transition from DISCARDEDto discarded is not allowed.
+
+MemoryError[2022/11/07 00:17:25.807819] tab_manager_delegate_chromeos.cc:567 Target memory to free: 9172 KB
+
+MemoryError[2022/11/07 00:17:25.807708] tab_lifecycle_unit.cc:558 Skipped discarding unit 11 because a transition from DISCARDEDto discarded is not allowed.
+
+MemoryError[2022/11/07 00:17:25.807419] tab_manager_delegate_chromeos.cc:567 Target memory to free: 9172 KB
+
+MemoryError[2022/11/07 00:17:25.807282] tab_lifecycle_unit.cc:558 Skipped discarding unit 9 because a transition from DISCARDEDto discarded is not allowed.
+
+MemoryError[2022/11/07 00:17:25.806955] tab_manager_delegate_chromeos.cc:567 Target memory to free: 9172 KB
+
+MemoryError[2022/11/07 00:17:25.806790] tab_lifecycle_unit.cc:558 Skipped discarding unit 8 because a transition from DISCARDEDto discarded is not allowed.
+
+MemoryError[2022/11/07 00:17:25.806449] tab_manager_delegate_chromeos.cc:567 Target memory to free: 9172 KB
+
+MemoryError[2022/11/07 00:17:25.806144] tab_lifecycle_unit.cc:558 Skipped discarding unit 6 because a transition from DISCARDEDto discarded is not allowed.
+
+MemoryError[2022/11/07 00:17:25.805423] tab_manager_delegate_chromeos.cc:567 Target memory to free: 9172 KB
+
+MemoryError[2022/11/07 00:17:25.805060] tab_lifecycle_unit.cc:558 Skipped discarding unit 5 because a transition from DISCARDEDto discarded is not allowed.
+
+MemoryError[2022/11/07 00:17:25.804752] tab_manager_delegate_chromeos.cc:567 Target memory to free: 9172 KB
+
+MemoryError[2022/11/07 00:17:25.804640] tab_lifecycle_unit.cc:558 Skipped discarding unit 18 because a transition from DISCARDEDto discarded is not allowed.
+
+MemoryError[2022/11/07 00:17:25.804345] tab_manager_delegate_chromeos.cc:567 Target memory to free: 9172 KB
+
+MemoryError[2022/11/07 00:17:25.804185] tab_lifecycle_unit.cc:558 Skipped discarding unit 70 because a transition from DISCARDEDto discarded is not allowed.
+
+MemoryError[2022/11/07 00:17:25.803795] tab_manager_delegate_chromeos.cc:567 Target memory to free: 9172 KB
+
+MemoryError[2022/11/07 00:17:25.803526] tab_lifecycle_unit.cc:558 Skipped discarding unit 69 because a transition from DISCARDEDto discarded is not allowed.
+
+MemoryError[2022/11/07 00:17:25.802984] tab_manager_delegate_chromeos.cc:567 Target memory to free: 9172 KB
+
+MemoryError[2022/11/07 00:17:25.802830] tab_lifecycle_unit.cc:558 Skipped discarding unit 1 because a transition from DISCARDEDto discarded is not allowed.
+
+MemoryError[2022/11/07 00:17:25.802506] tab_manager_delegate_chromeos.cc:567 Target memory to free: 9172 KB
+
+MemoryError[2022/11/07 00:17:25.802325] tab_lifecycle_unit.cc:558 Skipped discarding unit 67 because a transition from DISCARDEDto discarded is not allowed.
+
+MemoryError[2022/11/07 00:17:25.801885] tab_manager_delegate_chromeos.cc:567 Target memory to free: 9172 KB
+
+MemoryError[2022/11/07 00:17:25.801546] tab_lifecycle_unit.cc:558 Skipped discarding unit 65 because a transition from DISCARDEDto discarded is not allowed.
+
+MemoryError[2022/11/07 00:17:25.800503] tab_manager_delegate_chromeos.cc:567 Target memory to free: 9172 KB
+
+MemoryError[2022/11/07 00:17:25.800177] tab_lifecycle_unit.cc:558 Skipped discarding unit 64 because a transition from DISCARDEDto discarded is not allowed.
+
+MemoryError[2022/11/07 00:17:25.799737] tab_manager_delegate_chromeos.cc:567 Target memory to free: 9172 KB
+
+MemoryError[2022/11/07 00:17:25.799199] tab_lifecycle_unit.cc:558 Skipped discarding unit 63 because a transition from DISCARDEDto discarded is not allowed.
+
+MemoryError[2022/11/07 00:17:25.798406] tab_manager_delegate_chromeos.cc:567 Target memory to free: 9172 KB
+
+MemoryError[2022/11/07 00:17:25.798072] tab_lifecycle_unit.cc:558 Skipped discarding unit 62 because a transition from DISCARDEDto discarded is not allowed.
+
+MemoryError[2022/11/07 00:17:25.797527] tab_manager_delegate_chromeos.cc:567 Target memory to free: 9172 KB
+
+MemoryError[2022/11/07 00:17:25.797165] tab_lifecycle_unit.cc:558 Skipped discarding unit 47 because a transition from DISCARDEDto discarded is not allowed.
+
+MemoryError[2022/11/07 00:17:25.796213] tab_manager_delegate_chromeos.cc:567 Target memory to free: 9172 KB
+
+MemoryError[2022/11/07 00:17:25.795594] tab_lifecycle_unit.cc:558 Skipped discarding unit 16 because a transition from DISCARDEDto discarded is not allowed.
+
+MemoryError[2022/11/07 00:17:25.794488] tab_manager_delegate_chromeos.cc:567 Target memory to free: 9172 KB
+
+MemoryError[2022/11/07 00:17:25.794183] tab_lifecycle_unit.cc:558 Skipped discarding unit 38 because a transition from DISCARDEDto discarded is not allowed.
+
+MemoryError[2022/11/07 00:17:25.793258] tab_manager_delegate_chromeos.cc:567 Target memory to free: 9172 KB
+
+MemoryError[2022/11/07 00:17:25.793097] tab_lifecycle_unit.cc:558 Skipped discarding unit 26 because a transition from DISCARDEDto discarded is not allowed.
+
+MemoryError[2022/11/07 00:17:25.792743] tab_manager_delegate_chromeos.cc:567 Target memory to free: 9172 KB
+
+MemoryError[2022/11/07 00:17:25.792569] tab_lifecycle_unit.cc:558 Skipped discarding unit 49 because a transition from DISCARDEDto discarded is not allowed.
+
+MemoryError[2022/11/07 00:17:25.792210] tab_manager_delegate_chromeos.cc:567 Target memory to free: 9172 KB
+
+MemoryError[2022/11/07 00:17:25.791871] tab_lifecycle_unit.cc:558 Skipped discarding unit 45 because a transition from DISCARDEDto discarded is not allowed.
+
+MemoryError[2022/11/07 00:17:25.791070] tab_manager_delegate_chromeos.cc:567 Target memory to free: 9172 KB
+
+MemoryError[2022/11/07 00:17:25.790385] tab_lifecycle_unit.cc:558 Skipped discarding unit 42 because a transition from DISCARDEDto discarded is not allowed.
+
+MemoryError[2022/11/07 00:17:25.789558] tab_manager_delegate_chromeos.cc:567 Target memory to free: 9172 KB
+
+MemoryError[2022/11/07 00:17:25.789281] tab_lifecycle_unit.cc:558 Skipped discarding unit 43 because a transition from DISCARDEDto discarded is not allowed.
+
+MemoryError[2022/11/07 00:17:25.788685] tab_manager_delegate_chromeos.cc:567 Target memory to free: 9172 KB
+
+MemoryError[2022/11/07 00:17:25.788560] tab_lifecycle_unit.cc:558 Skipped discarding unit 40 because a transition from DISCARDEDto discarded is not allowed.
+
+MemoryError[2022/11/07 00:17:25.788235] tab_manager_delegate_chromeos.cc:567 Target memory to free: 9172 KB
+
+MemoryError[2022/11/07 00:17:25.788034] tab_lifecycle_unit.cc:558 Skipped discarding unit 37 because a transition from DISCARDEDto discarded is not allowed.
+
+MemoryError[2022/11/07 00:17:25.787541] tab_manager_delegate_chromeos.cc:567 Target memory to free: 9172 KB
+
+MemoryError[2022/11/07 00:17:25.787114] tab_lifecycle_unit.cc:558 Skipped discarding unit 52 because a transition from DISCARDEDto discarded is not allowed.
+
+MemoryError[2022/11/07 00:17:25.786561] tab_manager_delegate_chromeos.cc:567 Target memory to free: 9172 KB
+
+MemoryError[2022/11/07 00:17:25.786423] tab_lifecycle_unit.cc:558 Skipped discarding unit 55 because a transition from DISCARDEDto discarded is not allowed.
+
+MemoryError[2022/11/07 00:17:25.786065] tab_manager_delegate_chromeos.cc:567 Target memory to free: 9172 KB
+
+MemoryError[2022/11/07 00:17:25.785808] tab_lifecycle_unit.cc:558 Skipped discarding unit 56 because a transition from DISCARDEDto discarded is not allowed.
+
+MemoryError[2022/11/07 00:17:25.785427] tab_manager_delegate_chromeos.cc:567 Target memory to free: 9172 KB
+
+MemoryError[2022/11/07 00:17:25.785243] tab_lifecycle_unit.cc:558 Skipped discarding unit 51 because a transition from DISCARDEDto discarded is not allowed.
+
+MemoryError[2022/11/07 00:17:25.784763] tab_manager_delegate_chromeos.cc:567 Target memory to free: 9172 KB
+
+MemoryError[2022/11/07 00:17:25.784283] tab_lifecycle_unit.cc:558 Skipped discarding unit 50 because a transition from DISCARDEDto discarded is not allowed.
+
+MemoryError[2022/11/07 00:17:25.783753] tab_manager_delegate_chromeos.cc:567 Target memory to free: 9172 KB
+
+MemoryError[2022/11/07 00:17:25.783604] tab_lifecycle_unit.cc:558 Skipped discarding unit 2 because a transition from DISCARDEDto discarded is not allowed.
+
+MemoryError[2022/11/07 00:17:25.783220] tab_manager_delegate_chromeos.cc:567 Target memory to free: 9172 KB
+
+MemoryError[2022/11/07 00:17:25.783023] tab_lifecycle_unit.cc:558 Skipped discarding unit 29 because a transition from DISCARDEDto discarded is not allowed.
+
+MemoryError[2022/11/07 00:17:25.782556] tab_manager_delegate_chromeos.cc:567 Target memory to free: 9172 KB
+
+MemoryError[2022/11/07 00:17:25.782189] tab_lifecycle_unit.cc:558 Skipped discarding unit 3 because a transition from DISCARDEDto discarded is not allowed.
+
+MemoryError[2022/11/07 00:17:25.781634] tab_manager_delegate_chromeos.cc:567 Target memory to free: 9172 KB
+
+MemoryError[2022/11/07 00:17:25.781504] tab_lifecycle_unit.cc:558 Skipped discarding unit 20 because a transition from DISCARDEDto discarded is not allowed.
+
+MemoryError[2022/11/07 00:17:25.781183] tab_manager_delegate_chromeos.cc:567 Target memory to free: 9172 KB
+
+MemoryError[2022/11/07 00:17:25.780940] tab_lifecycle_unit.cc:558 Skipped discarding unit 17 because a transition from DISCARDEDto discarded is not allowed.
+
+MemoryError[2022/11/07 00:17:25.779867] tab_manager_delegate_chromeos.cc:567 Target memory to free: 9172 KB
+
+MemoryError[2022/11/07 00:17:25.779520] tab_lifecycle_unit.cc:558 Skipped discarding unit 14 because a transition from DISCARDEDto discarded is not allowed.
+
+MemoryError[2022/11/07 00:17:25.778685] tab_manager_delegate_chromeos.cc:567 Target memory to free: 9172 KB
+
+MemoryError[2022/11/07 00:17:25.778312] tab_lifecycle_unit.cc:558 Skipped discarding unit 13 because a transition from DISCARDEDto discarded is not allowed.
+
+MemoryError[2022/11/07 00:17:25.777680] tab_manager_delegate_chromeos.cc:567 Target memory to free: 9172 KB
+
+MemoryError[2022/11/07 00:17:25.777564] tab_manager_delegate_chromeos.cc:557 tab (id: 15, pid: 18654), process_type FOCUSED_TAB
+
+MemoryError[2022/11/07 00:17:25.777385] tab_manager_delegate_chromeos.cc:557 tab (id: 66, pid: 31106), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:25.777025] tab_manager_delegate_chromeos.cc:557 tab (id: 75, pid: 14945), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:25.776600] tab_manager_delegate_chromeos.cc:557 tab (id: 12, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:25.776311] tab_manager_delegate_chromeos.cc:557 tab (id: 7, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:25.775839] tab_manager_delegate_chromeos.cc:557 tab (id: 24, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:25.775764] tab_manager_delegate_chromeos.cc:557 tab (id: 78, pid: 14932), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:25.775683] tab_manager_delegate_chromeos.cc:557 tab (id: 72, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:25.775574] tab_manager_delegate_chromeos.cc:557 tab (id: 60, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:25.775500] tab_manager_delegate_chromeos.cc:557 tab (id: 82, pid: 13075), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:25.775425] tab_manager_delegate_chromeos.cc:557 tab (id: 54, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:25.775351] tab_manager_delegate_chromeos.cc:557 tab (id: 85, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:25.775276] tab_manager_delegate_chromeos.cc:557 tab (id: 83, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:25.775201] tab_manager_delegate_chromeos.cc:557 tab (id: 84, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:25.775125] tab_manager_delegate_chromeos.cc:557 tab (id: 77, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:25.775039] tab_manager_delegate_chromeos.cc:557 tab (id: 81, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:25.774896] tab_manager_delegate_chromeos.cc:557 tab (id: 79, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:25.774817] tab_manager_delegate_chromeos.cc:557 tab (id: 68, pid: 31106), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:25.774740] tab_manager_delegate_chromeos.cc:557 tab (id: 10, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:25.774664] tab_manager_delegate_chromeos.cc:557 tab (id: 74, pid: 31106), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:25.774590] tab_manager_delegate_chromeos.cc:557 tab (id: 41, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:25.774517] tab_manager_delegate_chromeos.cc:557 tab (id: 11, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:25.774442] tab_manager_delegate_chromeos.cc:557 tab (id: 9, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:25.774366] tab_manager_delegate_chromeos.cc:557 tab (id: 8, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:25.774278] tab_manager_delegate_chromeos.cc:557 tab (id: 6, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:25.774099] tab_manager_delegate_chromeos.cc:557 tab (id: 5, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:25.773760] tab_manager_delegate_chromeos.cc:557 tab (id: 18, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:25.773685] tab_manager_delegate_chromeos.cc:557 tab (id: 70, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:25.773590] tab_manager_delegate_chromeos.cc:557 tab (id: 69, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:25.773484] tab_manager_delegate_chromeos.cc:557 tab (id: 1, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:25.773409] tab_manager_delegate_chromeos.cc:557 tab (id: 67, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:25.773335] tab_manager_delegate_chromeos.cc:557 tab (id: 65, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:25.773262] tab_manager_delegate_chromeos.cc:557 tab (id: 64, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:25.773185] tab_manager_delegate_chromeos.cc:557 tab (id: 63, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:25.773067] tab_manager_delegate_chromeos.cc:557 tab (id: 62, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:25.772876] tab_manager_delegate_chromeos.cc:557 tab (id: 47, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:25.772801] tab_manager_delegate_chromeos.cc:557 tab (id: 16, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:25.772718] tab_manager_delegate_chromeos.cc:557 tab (id: 38, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:25.772642] tab_manager_delegate_chromeos.cc:557 tab (id: 26, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:25.772543] tab_manager_delegate_chromeos.cc:557 tab (id: 49, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:25.772463] tab_manager_delegate_chromeos.cc:557 tab (id: 45, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:25.772389] tab_manager_delegate_chromeos.cc:557 tab (id: 42, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:25.772315] tab_manager_delegate_chromeos.cc:557 tab (id: 43, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:25.772232] tab_manager_delegate_chromeos.cc:557 tab (id: 40, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:25.772154] tab_manager_delegate_chromeos.cc:557 tab (id: 37, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:25.772051] tab_manager_delegate_chromeos.cc:557 tab (id: 52, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:25.771971] tab_manager_delegate_chromeos.cc:557 tab (id: 55, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:25.771877] tab_manager_delegate_chromeos.cc:557 tab (id: 56, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:25.771804] tab_manager_delegate_chromeos.cc:557 tab (id: 51, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:25.771732] tab_manager_delegate_chromeos.cc:557 tab (id: 50, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:25.771662] tab_manager_delegate_chromeos.cc:557 tab (id: 2, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:25.771592] tab_manager_delegate_chromeos.cc:557 tab (id: 29, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:25.771522] tab_manager_delegate_chromeos.cc:557 tab (id: 3, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:25.771449] tab_manager_delegate_chromeos.cc:557 tab (id: 20, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:25.771374] tab_manager_delegate_chromeos.cc:557 tab (id: 17, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:25.771264] tab_manager_delegate_chromeos.cc:557 tab (id: 14, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:25.771164] tab_manager_delegate_chromeos.cc:557 tab (id: 13, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:25.770730] tab_manager_delegate_chromeos.cc:554 List of low memory kill candidates (sorted from low priority to high priority):
+
+MemoryError[2022/11/07 00:17:24.809944] tab_manager_delegate_chromeos.cc:635 Time to first kill 0.035407 s
+
+MemoryError[2022/11/07 00:17:24.809815] tab_manager_delegate_chromeos.cc:567 Target memory to free: -37279 KB
+
+MemoryError[2022/11/07 00:17:24.809444] tab_manager_delegate_chromeos.cc:623 Killed tab (id: 12), estimated 46868 KB freed
+
+MemoryError[2022/11/07 00:17:24.781403] tab_manager_delegate_chromeos.cc:567 Target memory to free: 9589 KB
+
+MemoryError[2022/11/07 00:17:24.781313] tab_manager_delegate_chromeos.cc:557 tab (id: 15, pid: 18654), process_type FOCUSED_TAB
+
+MemoryError[2022/11/07 00:17:24.781211] tab_manager_delegate_chromeos.cc:557 tab (id: 66, pid: 31106), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:24.781133] tab_manager_delegate_chromeos.cc:557 tab (id: 75, pid: 14945), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:24.781061] tab_manager_delegate_chromeos.cc:557 tab (id: 7, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:24.780979] tab_manager_delegate_chromeos.cc:557 tab (id: 24, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:24.780859] tab_manager_delegate_chromeos.cc:557 tab (id: 78, pid: 14932), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:24.780757] tab_manager_delegate_chromeos.cc:557 tab (id: 72, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:24.780650] tab_manager_delegate_chromeos.cc:557 tab (id: 60, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:24.780567] tab_manager_delegate_chromeos.cc:557 tab (id: 82, pid: 13075), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:24.780496] tab_manager_delegate_chromeos.cc:557 tab (id: 54, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:24.780346] tab_manager_delegate_chromeos.cc:557 tab (id: 85, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:24.779880] tab_manager_delegate_chromeos.cc:557 tab (id: 83, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:24.779809] tab_manager_delegate_chromeos.cc:557 tab (id: 84, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:24.779734] tab_manager_delegate_chromeos.cc:557 tab (id: 77, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:24.779665] tab_manager_delegate_chromeos.cc:557 tab (id: 81, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:24.779587] tab_manager_delegate_chromeos.cc:557 tab (id: 79, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:24.779519] tab_manager_delegate_chromeos.cc:557 tab (id: 68, pid: 31106), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:24.779450] tab_manager_delegate_chromeos.cc:557 tab (id: 10, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:24.779376] tab_manager_delegate_chromeos.cc:557 tab (id: 74, pid: 31106), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:24.779271] tab_manager_delegate_chromeos.cc:557 tab (id: 41, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:24.779202] tab_manager_delegate_chromeos.cc:557 tab (id: 11, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:24.779134] tab_manager_delegate_chromeos.cc:557 tab (id: 9, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:24.779062] tab_manager_delegate_chromeos.cc:557 tab (id: 8, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:24.778981] tab_manager_delegate_chromeos.cc:557 tab (id: 6, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:24.778867] tab_manager_delegate_chromeos.cc:557 tab (id: 5, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:24.778797] tab_manager_delegate_chromeos.cc:557 tab (id: 18, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:24.778727] tab_manager_delegate_chromeos.cc:557 tab (id: 70, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:24.778658] tab_manager_delegate_chromeos.cc:557 tab (id: 69, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:24.778585] tab_manager_delegate_chromeos.cc:557 tab (id: 1, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:24.778477] tab_manager_delegate_chromeos.cc:557 tab (id: 67, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:24.778408] tab_manager_delegate_chromeos.cc:557 tab (id: 65, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:24.778337] tab_manager_delegate_chromeos.cc:557 tab (id: 64, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:24.778265] tab_manager_delegate_chromeos.cc:557 tab (id: 63, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:24.778194] tab_manager_delegate_chromeos.cc:557 tab (id: 62, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:24.778122] tab_manager_delegate_chromeos.cc:557 tab (id: 47, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:24.778048] tab_manager_delegate_chromeos.cc:557 tab (id: 16, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:24.777953] tab_manager_delegate_chromeos.cc:557 tab (id: 38, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:24.777859] tab_manager_delegate_chromeos.cc:557 tab (id: 26, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:24.777786] tab_manager_delegate_chromeos.cc:557 tab (id: 49, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:24.777705] tab_manager_delegate_chromeos.cc:557 tab (id: 45, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:24.777535] tab_manager_delegate_chromeos.cc:557 tab (id: 42, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:24.777281] tab_manager_delegate_chromeos.cc:557 tab (id: 43, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:24.777214] tab_manager_delegate_chromeos.cc:557 tab (id: 40, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:24.777146] tab_manager_delegate_chromeos.cc:557 tab (id: 37, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:24.777074] tab_manager_delegate_chromeos.cc:557 tab (id: 52, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:24.776977] tab_manager_delegate_chromeos.cc:557 tab (id: 55, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:24.776838] tab_manager_delegate_chromeos.cc:557 tab (id: 56, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:24.776767] tab_manager_delegate_chromeos.cc:557 tab (id: 51, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:24.776671] tab_manager_delegate_chromeos.cc:557 tab (id: 50, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:24.776600] tab_manager_delegate_chromeos.cc:557 tab (id: 2, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:24.776506] tab_manager_delegate_chromeos.cc:557 tab (id: 29, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:24.776149] tab_manager_delegate_chromeos.cc:557 tab (id: 3, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:24.774847] tab_manager_delegate_chromeos.cc:557 tab (id: 20, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:24.774780] tab_manager_delegate_chromeos.cc:557 tab (id: 17, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:24.774711] tab_manager_delegate_chromeos.cc:557 tab (id: 14, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:24.774643] tab_manager_delegate_chromeos.cc:557 tab (id: 13, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:24.774553] tab_manager_delegate_chromeos.cc:557 tab (id: 12, pid: 17473), process_type BACKGROUND
+
+MemoryError[2022/11/07 00:17:24.774151] tab_manager_delegate_chromeos.cc:554 List of low memory kill candidates (sorted from low priority to high priority):
+
+MemoryError[2022/11/07 00:17:23.806163] tab_manager_delegate_chromeos.cc:635 Time to first kill 0.034974 s
+
+MemoryError[2022/11/07 00:17:23.806009] tab_manager_delegate_chromeos.cc:567 Target memory to free: -82701 KB
+
+MemoryError[2022/11/07 00:17:23.805590] tab_manager_delegate_chromeos.cc:623 Killed tab (id: 7), estimated 82868 KB freed
+
+MemoryError[2022/11/07 00:17:23.777076] tab_manager_delegate_chromeos.cc:567 Target memory to free: 167 KB
+
+MemoryError[2022/11/07 00:17:23.776987] tab_manager_delegate_chromeos.cc:557 tab (id: 15, pid: 18654), process_type FOCUSED_TAB
+
+MemoryError[2022/11/07 00:17:23.776879] tab_manager_delegate_chromeos.cc:557 tab (id: 66, pid: 31106), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:23.776807] tab_manager_delegate_chromeos.cc:557 tab (id: 75, pid: 14945), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:23.776730] tab_manager_delegate_chromeos.cc:557 tab (id: 24, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:23.776631] tab_manager_delegate_chromeos.cc:557 tab (id: 78, pid: 14932), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:23.776556] tab_manager_delegate_chromeos.cc:557 tab (id: 72, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:23.776477] tab_manager_delegate_chromeos.cc:557 tab (id: 60, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:23.776405] tab_manager_delegate_chromeos.cc:557 tab (id: 82, pid: 13075), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:23.776332] tab_manager_delegate_chromeos.cc:557 tab (id: 54, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:23.776261] tab_manager_delegate_chromeos.cc:557 tab (id: 85, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:23.776186] tab_manager_delegate_chromeos.cc:557 tab (id: 83, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:23.776103] tab_manager_delegate_chromeos.cc:557 tab (id: 84, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:23.776014] tab_manager_delegate_chromeos.cc:557 tab (id: 77, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:23.775872] tab_manager_delegate_chromeos.cc:557 tab (id: 81, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:23.775798] tab_manager_delegate_chromeos.cc:557 tab (id: 79, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:23.775723] tab_manager_delegate_chromeos.cc:557 tab (id: 68, pid: 31106), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:23.775644] tab_manager_delegate_chromeos.cc:557 tab (id: 10, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:23.775524] tab_manager_delegate_chromeos.cc:557 tab (id: 74, pid: 31106), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:23.775347] tab_manager_delegate_chromeos.cc:557 tab (id: 41, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:23.774976] tab_manager_delegate_chromeos.cc:557 tab (id: 11, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:23.774607] tab_manager_delegate_chromeos.cc:557 tab (id: 9, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:23.774492] tab_manager_delegate_chromeos.cc:557 tab (id: 8, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:23.774275] tab_manager_delegate_chromeos.cc:557 tab (id: 6, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:23.773868] tab_manager_delegate_chromeos.cc:557 tab (id: 5, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:23.773798] tab_manager_delegate_chromeos.cc:557 tab (id: 18, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:23.773727] tab_manager_delegate_chromeos.cc:557 tab (id: 70, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:23.773657] tab_manager_delegate_chromeos.cc:557 tab (id: 69, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:23.773584] tab_manager_delegate_chromeos.cc:557 tab (id: 1, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:23.773493] tab_manager_delegate_chromeos.cc:557 tab (id: 67, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:23.773423] tab_manager_delegate_chromeos.cc:557 tab (id: 65, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:23.773351] tab_manager_delegate_chromeos.cc:557 tab (id: 64, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:23.773280] tab_manager_delegate_chromeos.cc:557 tab (id: 63, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:23.773209] tab_manager_delegate_chromeos.cc:557 tab (id: 62, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:23.773138] tab_manager_delegate_chromeos.cc:557 tab (id: 47, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:23.773066] tab_manager_delegate_chromeos.cc:557 tab (id: 16, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:23.772969] tab_manager_delegate_chromeos.cc:557 tab (id: 38, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:23.772877] tab_manager_delegate_chromeos.cc:557 tab (id: 26, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:23.772803] tab_manager_delegate_chromeos.cc:557 tab (id: 49, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:23.772708] tab_manager_delegate_chromeos.cc:557 tab (id: 45, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:23.772630] tab_manager_delegate_chromeos.cc:557 tab (id: 42, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:23.772557] tab_manager_delegate_chromeos.cc:557 tab (id: 43, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:23.772480] tab_manager_delegate_chromeos.cc:557 tab (id: 40, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:23.772380] tab_manager_delegate_chromeos.cc:557 tab (id: 37, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:23.772296] tab_manager_delegate_chromeos.cc:557 tab (id: 52, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:23.772226] tab_manager_delegate_chromeos.cc:557 tab (id: 55, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:23.772154] tab_manager_delegate_chromeos.cc:557 tab (id: 56, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:23.772080] tab_manager_delegate_chromeos.cc:557 tab (id: 51, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:23.771992] tab_manager_delegate_chromeos.cc:557 tab (id: 50, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:23.771866] tab_manager_delegate_chromeos.cc:557 tab (id: 2, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:23.771761] tab_manager_delegate_chromeos.cc:557 tab (id: 29, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:23.771659] tab_manager_delegate_chromeos.cc:557 tab (id: 3, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:23.771553] tab_manager_delegate_chromeos.cc:557 tab (id: 20, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:23.771487] tab_manager_delegate_chromeos.cc:557 tab (id: 17, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:23.771420] tab_manager_delegate_chromeos.cc:557 tab (id: 14, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:23.771352] tab_manager_delegate_chromeos.cc:557 tab (id: 13, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:23.771282] tab_manager_delegate_chromeos.cc:557 tab (id: 12, pid: 17473), process_type BACKGROUND
+
+MemoryError[2022/11/07 00:17:23.771183] tab_manager_delegate_chromeos.cc:557 tab (id: 7, pid: 17372), process_type BACKGROUND
+
+MemoryError[2022/11/07 00:17:23.770748] tab_manager_delegate_chromeos.cc:554 List of low memory kill candidates (sorted from low priority to high priority):
+
+MemoryError[2022/11/07 00:17:20.832517] tab_manager_delegate_chromeos.cc:635 Time to first kill 0.060211 s
+
+MemoryError[2022/11/07 00:17:20.832289] tab_manager_delegate_chromeos.cc:567 Target memory to free: -45626 KB
+
+MemoryError[2022/11/07 00:17:20.831596] tab_manager_delegate_chromeos.cc:623 Killed tab (id: 24), estimated 56260 KB freed
+
+MemoryError[2022/11/07 00:17:20.777476] tab_manager_delegate_chromeos.cc:567 Target memory to free: 10634 KB
+
+MemoryError[2022/11/07 00:17:20.777338] tab_manager_delegate_chromeos.cc:557 tab (id: 15, pid: 18654), process_type FOCUSED_TAB
+
+MemoryError[2022/11/07 00:17:20.777227] tab_manager_delegate_chromeos.cc:557 tab (id: 66, pid: 31106), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:20.777011] tab_manager_delegate_chromeos.cc:557 tab (id: 75, pid: 14945), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:20.776698] tab_manager_delegate_chromeos.cc:557 tab (id: 78, pid: 14932), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:20.776631] tab_manager_delegate_chromeos.cc:557 tab (id: 72, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:20.776564] tab_manager_delegate_chromeos.cc:557 tab (id: 60, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:20.776496] tab_manager_delegate_chromeos.cc:557 tab (id: 82, pid: 13075), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:20.776427] tab_manager_delegate_chromeos.cc:557 tab (id: 54, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:20.776360] tab_manager_delegate_chromeos.cc:557 tab (id: 85, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:20.776269] tab_manager_delegate_chromeos.cc:557 tab (id: 83, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:20.776202] tab_manager_delegate_chromeos.cc:557 tab (id: 84, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:20.776135] tab_manager_delegate_chromeos.cc:557 tab (id: 77, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:20.776066] tab_manager_delegate_chromeos.cc:557 tab (id: 81, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:20.775997] tab_manager_delegate_chromeos.cc:557 tab (id: 79, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:20.775905] tab_manager_delegate_chromeos.cc:557 tab (id: 68, pid: 31106), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:20.775813] tab_manager_delegate_chromeos.cc:557 tab (id: 10, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:20.775744] tab_manager_delegate_chromeos.cc:557 tab (id: 74, pid: 31106), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:20.775676] tab_manager_delegate_chromeos.cc:557 tab (id: 41, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:20.775606] tab_manager_delegate_chromeos.cc:557 tab (id: 11, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:20.775529] tab_manager_delegate_chromeos.cc:557 tab (id: 9, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:20.775457] tab_manager_delegate_chromeos.cc:557 tab (id: 8, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:20.775356] tab_manager_delegate_chromeos.cc:557 tab (id: 6, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:20.775287] tab_manager_delegate_chromeos.cc:557 tab (id: 5, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:20.775218] tab_manager_delegate_chromeos.cc:557 tab (id: 18, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:20.775147] tab_manager_delegate_chromeos.cc:557 tab (id: 70, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:20.775070] tab_manager_delegate_chromeos.cc:557 tab (id: 69, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:20.774989] tab_manager_delegate_chromeos.cc:557 tab (id: 1, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:20.774880] tab_manager_delegate_chromeos.cc:557 tab (id: 67, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:20.774795] tab_manager_delegate_chromeos.cc:557 tab (id: 65, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:20.774726] tab_manager_delegate_chromeos.cc:557 tab (id: 64, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:20.774659] tab_manager_delegate_chromeos.cc:557 tab (id: 63, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:20.774584] tab_manager_delegate_chromeos.cc:557 tab (id: 62, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:20.774516] tab_manager_delegate_chromeos.cc:557 tab (id: 47, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:20.774448] tab_manager_delegate_chromeos.cc:557 tab (id: 16, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:20.774378] tab_manager_delegate_chromeos.cc:557 tab (id: 38, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:20.774287] tab_manager_delegate_chromeos.cc:557 tab (id: 26, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:20.774192] tab_manager_delegate_chromeos.cc:557 tab (id: 49, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:20.774125] tab_manager_delegate_chromeos.cc:557 tab (id: 45, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:20.774053] tab_manager_delegate_chromeos.cc:557 tab (id: 42, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:20.773965] tab_manager_delegate_chromeos.cc:557 tab (id: 43, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:20.773855] tab_manager_delegate_chromeos.cc:557 tab (id: 40, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:20.773787] tab_manager_delegate_chromeos.cc:557 tab (id: 37, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:20.773717] tab_manager_delegate_chromeos.cc:557 tab (id: 52, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:20.773619] tab_manager_delegate_chromeos.cc:557 tab (id: 55, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:20.773550] tab_manager_delegate_chromeos.cc:557 tab (id: 56, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:20.773481] tab_manager_delegate_chromeos.cc:557 tab (id: 51, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:20.773401] tab_manager_delegate_chromeos.cc:557 tab (id: 50, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:20.773332] tab_manager_delegate_chromeos.cc:557 tab (id: 2, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:20.773247] tab_manager_delegate_chromeos.cc:557 tab (id: 29, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:20.773177] tab_manager_delegate_chromeos.cc:557 tab (id: 3, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:20.773091] tab_manager_delegate_chromeos.cc:557 tab (id: 20, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:20.773020] tab_manager_delegate_chromeos.cc:557 tab (id: 17, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:20.772939] tab_manager_delegate_chromeos.cc:557 tab (id: 14, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:20.772825] tab_manager_delegate_chromeos.cc:557 tab (id: 13, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:20.772728] tab_manager_delegate_chromeos.cc:557 tab (id: 12, pid: 17473), process_type BACKGROUND
+
+MemoryError[2022/11/07 00:17:20.772658] tab_manager_delegate_chromeos.cc:557 tab (id: 7, pid: 17372), process_type BACKGROUND
+
+MemoryError[2022/11/07 00:17:20.772568] tab_manager_delegate_chromeos.cc:557 tab (id: 24, pid: 17292), process_type BACKGROUND
+
+MemoryError[2022/11/07 00:17:20.772164] tab_manager_delegate_chromeos.cc:554 List of low memory kill candidates (sorted from low priority to high priority):
+
+CameraDebug[2022/11/07 00:17:19.996873] camera_hal_delegate.cc:267 Supported format: 160x120 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:17:19.996867] camera_hal_delegate.cc:267 Supported format: 176x144 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:17:19.996862] camera_hal_delegate.cc:267 Supported format: 320x240 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:17:19.996857] camera_hal_delegate.cc:267 Supported format: 352x288 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:17:19.996851] camera_hal_delegate.cc:267 Supported format: 640x480 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:17:19.996817] camera_hal_delegate.cc:267 Supported format: 1280x720 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:17:19.299736] camera_hal_delegate.cc:267 Supported format: 160x120 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:17:19.299727] camera_hal_delegate.cc:267 Supported format: 176x144 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:17:19.299720] camera_hal_delegate.cc:267 Supported format: 320x240 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:17:19.299716] camera_hal_delegate.cc:267 Supported format: 352x288 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:17:19.299710] camera_hal_delegate.cc:267 Supported format: 640x480 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:17:19.299687] camera_hal_delegate.cc:267 Supported format: 1280x720 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:17:19.295045] camera_hal_delegate.cc:267 Supported format: 160x120 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:17:19.295041] camera_hal_delegate.cc:267 Supported format: 176x144 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:17:19.295035] camera_hal_delegate.cc:267 Supported format: 320x240 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:17:19.295031] camera_hal_delegate.cc:267 Supported format: 352x288 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:17:19.295025] camera_hal_delegate.cc:267 Supported format: 640x480 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:17:19.294988] camera_hal_delegate.cc:267 Supported format: 1280x720 fps=30 format=PIXEL_FORMAT_NV12
+
+PowerDebug[2022/11/07 00:17:17.082233] power_manager_client.cc:791 Received power supply poll signal.
+
+CameraDebug[2022/11/07 00:17:16.939253] camera_hal_delegate.cc:267 Supported format: 160x120 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:17:16.939247] camera_hal_delegate.cc:267 Supported format: 176x144 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:17:16.939242] camera_hal_delegate.cc:267 Supported format: 320x240 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:17:16.939237] camera_hal_delegate.cc:267 Supported format: 352x288 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:17:16.939231] camera_hal_delegate.cc:267 Supported format: 640x480 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:17:16.939190] camera_hal_delegate.cc:267 Supported format: 1280x720 fps=30 format=PIXEL_FORMAT_NV12
+
+MemoryError[2022/11/07 00:17:16.806209] tab_manager_delegate_chromeos.cc:635 Time to first kill 0.035162 s
+
+MemoryError[2022/11/07 00:17:16.806102] tab_manager_delegate_chromeos.cc:567 Target memory to free: -88444 KB
+
+MemoryError[2022/11/07 00:17:16.805690] tab_manager_delegate_chromeos.cc:623 Killed tab (id: 72), estimated 97404 KB freed
+
+MemoryError[2022/11/07 00:17:16.776518] tab_manager_delegate_chromeos.cc:567 Target memory to free: 8960 KB
+
+MemoryError[2022/11/07 00:17:16.776448] tab_manager_delegate_chromeos.cc:557 tab (id: 15, pid: 18654), process_type FOCUSED_TAB
+
+MemoryError[2022/11/07 00:17:16.776376] tab_manager_delegate_chromeos.cc:557 tab (id: 66, pid: 31106), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:16.776306] tab_manager_delegate_chromeos.cc:557 tab (id: 75, pid: 14945), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:16.776233] tab_manager_delegate_chromeos.cc:557 tab (id: 78, pid: 14932), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:16.776163] tab_manager_delegate_chromeos.cc:557 tab (id: 60, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:16.776090] tab_manager_delegate_chromeos.cc:557 tab (id: 82, pid: 13075), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:16.776006] tab_manager_delegate_chromeos.cc:557 tab (id: 54, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:16.775922] tab_manager_delegate_chromeos.cc:557 tab (id: 85, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:16.775834] tab_manager_delegate_chromeos.cc:557 tab (id: 83, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:16.775734] tab_manager_delegate_chromeos.cc:557 tab (id: 84, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:16.775662] tab_manager_delegate_chromeos.cc:557 tab (id: 77, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:16.775590] tab_manager_delegate_chromeos.cc:557 tab (id: 81, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:16.775520] tab_manager_delegate_chromeos.cc:557 tab (id: 79, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:16.775447] tab_manager_delegate_chromeos.cc:557 tab (id: 68, pid: 31106), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:16.775377] tab_manager_delegate_chromeos.cc:557 tab (id: 10, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:16.775303] tab_manager_delegate_chromeos.cc:557 tab (id: 74, pid: 31106), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:16.775232] tab_manager_delegate_chromeos.cc:557 tab (id: 41, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:16.775162] tab_manager_delegate_chromeos.cc:557 tab (id: 11, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:16.775091] tab_manager_delegate_chromeos.cc:557 tab (id: 9, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:16.775014] tab_manager_delegate_chromeos.cc:557 tab (id: 8, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:16.774902] tab_manager_delegate_chromeos.cc:557 tab (id: 6, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:16.774823] tab_manager_delegate_chromeos.cc:557 tab (id: 5, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:16.774754] tab_manager_delegate_chromeos.cc:557 tab (id: 18, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:16.774684] tab_manager_delegate_chromeos.cc:557 tab (id: 70, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:16.774608] tab_manager_delegate_chromeos.cc:557 tab (id: 69, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:16.774512] tab_manager_delegate_chromeos.cc:557 tab (id: 1, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:16.774441] tab_manager_delegate_chromeos.cc:557 tab (id: 67, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:16.774365] tab_manager_delegate_chromeos.cc:557 tab (id: 65, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:16.774283] tab_manager_delegate_chromeos.cc:557 tab (id: 64, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:16.774212] tab_manager_delegate_chromeos.cc:557 tab (id: 63, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:16.774135] tab_manager_delegate_chromeos.cc:557 tab (id: 62, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:16.774034] tab_manager_delegate_chromeos.cc:557 tab (id: 47, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:16.773951] tab_manager_delegate_chromeos.cc:557 tab (id: 16, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:16.773858] tab_manager_delegate_chromeos.cc:557 tab (id: 38, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:16.773786] tab_manager_delegate_chromeos.cc:557 tab (id: 26, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:16.773689] tab_manager_delegate_chromeos.cc:557 tab (id: 49, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:16.773617] tab_manager_delegate_chromeos.cc:557 tab (id: 45, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:16.773545] tab_manager_delegate_chromeos.cc:557 tab (id: 42, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:16.773473] tab_manager_delegate_chromeos.cc:557 tab (id: 43, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:16.773402] tab_manager_delegate_chromeos.cc:557 tab (id: 40, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:16.773325] tab_manager_delegate_chromeos.cc:557 tab (id: 37, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:16.773229] tab_manager_delegate_chromeos.cc:557 tab (id: 52, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:16.773150] tab_manager_delegate_chromeos.cc:557 tab (id: 55, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:16.773050] tab_manager_delegate_chromeos.cc:557 tab (id: 56, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:16.772947] tab_manager_delegate_chromeos.cc:557 tab (id: 51, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:16.772788] tab_manager_delegate_chromeos.cc:557 tab (id: 50, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:16.772715] tab_manager_delegate_chromeos.cc:557 tab (id: 2, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:16.772629] tab_manager_delegate_chromeos.cc:557 tab (id: 29, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:16.772342] tab_manager_delegate_chromeos.cc:557 tab (id: 3, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:16.771853] tab_manager_delegate_chromeos.cc:557 tab (id: 20, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:16.771781] tab_manager_delegate_chromeos.cc:557 tab (id: 17, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:16.771709] tab_manager_delegate_chromeos.cc:557 tab (id: 14, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:16.771638] tab_manager_delegate_chromeos.cc:557 tab (id: 13, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:16.771568] tab_manager_delegate_chromeos.cc:557 tab (id: 12, pid: 17473), process_type BACKGROUND
+
+MemoryError[2022/11/07 00:17:16.771496] tab_manager_delegate_chromeos.cc:557 tab (id: 7, pid: 17372), process_type BACKGROUND
+
+MemoryError[2022/11/07 00:17:16.771409] tab_manager_delegate_chromeos.cc:557 tab (id: 24, pid: 17292), process_type BACKGROUND
+
+MemoryError[2022/11/07 00:17:16.771237] tab_manager_delegate_chromeos.cc:557 tab (id: 72, pid: 15064), process_type BACKGROUND
+
+MemoryError[2022/11/07 00:17:16.770687] tab_manager_delegate_chromeos.cc:554 List of low memory kill candidates (sorted from low priority to high priority):
+
+CameraDebug[2022/11/07 00:17:16.234196] camera_hal_delegate.cc:267 Supported format: 160x120 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:17:16.234189] camera_hal_delegate.cc:267 Supported format: 176x144 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:17:16.234185] camera_hal_delegate.cc:267 Supported format: 320x240 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:17:16.234180] camera_hal_delegate.cc:267 Supported format: 352x288 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:17:16.234174] camera_hal_delegate.cc:267 Supported format: 640x480 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:17:16.234148] camera_hal_delegate.cc:267 Supported format: 1280x720 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:17:16.231156] camera_hal_delegate.cc:267 Supported format: 160x120 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:17:16.231152] camera_hal_delegate.cc:267 Supported format: 176x144 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:17:16.231148] camera_hal_delegate.cc:267 Supported format: 320x240 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:17:16.231143] camera_hal_delegate.cc:267 Supported format: 352x288 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:17:16.231138] camera_hal_delegate.cc:267 Supported format: 640x480 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:17:16.231126] camera_hal_delegate.cc:267 Supported format: 1280x720 fps=30 format=PIXEL_FORMAT_NV12
+
+NetworkEvent[2022/11/07 00:17:13.752391] network_portal_detector_impl.cc:388 NetworkPortalDetector completed: id=ethernet_0, result=InternetConnected, status=2, response_code=204
+
+NetworkEvent[2022/11/07 00:17:13.690858] network_portal_detector_impl.cc:314 Starting captive portal detection.
+
+CameraDebug[2022/11/07 00:17:05.101494] camera_hal_delegate.cc:267 Supported format: 160x120 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:17:05.101485] camera_hal_delegate.cc:267 Supported format: 176x144 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:17:05.101480] camera_hal_delegate.cc:267 Supported format: 320x240 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:17:05.101465] camera_hal_delegate.cc:267 Supported format: 352x288 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:17:05.101459] camera_hal_delegate.cc:267 Supported format: 640x480 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:17:05.101420] camera_hal_delegate.cc:267 Supported format: 1280x720 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:17:05.097430] camera_hal_delegate.cc:267 Supported format: 160x120 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:17:05.097425] camera_hal_delegate.cc:267 Supported format: 176x144 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:17:05.097421] camera_hal_delegate.cc:267 Supported format: 320x240 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:17:05.097417] camera_hal_delegate.cc:267 Supported format: 352x288 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:17:05.097412] camera_hal_delegate.cc:267 Supported format: 640x480 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:17:05.097401] camera_hal_delegate.cc:267 Supported format: 1280x720 fps=30 format=PIXEL_FORMAT_NV12
+
+MemoryError[2022/11/07 00:17:04.881729] tab_manager_delegate_chromeos.cc:635 Time to first kill 0.107737 s
+
+MemoryError[2022/11/07 00:17:04.881549] tab_manager_delegate_chromeos.cc:567 Target memory to free: -66557 KB
+
+MemoryError[2022/11/07 00:17:04.880880] tab_manager_delegate_chromeos.cc:623 Killed tab (id: 60), estimated 70452 KB freed
+
+MemoryError[2022/11/07 00:17:04.778780] tab_manager_delegate_chromeos.cc:567 Target memory to free: 3895 KB
+
+MemoryError[2022/11/07 00:17:04.778702] tab_manager_delegate_chromeos.cc:557 tab (id: 15, pid: 18654), process_type FOCUSED_TAB
+
+MemoryError[2022/11/07 00:17:04.778600] tab_manager_delegate_chromeos.cc:557 tab (id: 66, pid: 31106), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:04.778498] tab_manager_delegate_chromeos.cc:557 tab (id: 75, pid: 14945), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:04.778395] tab_manager_delegate_chromeos.cc:557 tab (id: 78, pid: 14932), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:04.778304] tab_manager_delegate_chromeos.cc:557 tab (id: 82, pid: 13075), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:04.778230] tab_manager_delegate_chromeos.cc:557 tab (id: 54, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:04.778155] tab_manager_delegate_chromeos.cc:557 tab (id: 85, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:04.778080] tab_manager_delegate_chromeos.cc:557 tab (id: 83, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:04.777999] tab_manager_delegate_chromeos.cc:557 tab (id: 84, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:04.777888] tab_manager_delegate_chromeos.cc:557 tab (id: 77, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:04.777807] tab_manager_delegate_chromeos.cc:557 tab (id: 81, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:04.777704] tab_manager_delegate_chromeos.cc:557 tab (id: 79, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:04.777628] tab_manager_delegate_chromeos.cc:557 tab (id: 68, pid: 31106), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:04.777547] tab_manager_delegate_chromeos.cc:557 tab (id: 10, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:04.777470] tab_manager_delegate_chromeos.cc:557 tab (id: 74, pid: 31106), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:04.777395] tab_manager_delegate_chromeos.cc:557 tab (id: 41, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:04.777321] tab_manager_delegate_chromeos.cc:557 tab (id: 11, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:04.777245] tab_manager_delegate_chromeos.cc:557 tab (id: 9, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:04.777141] tab_manager_delegate_chromeos.cc:557 tab (id: 8, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:04.777037] tab_manager_delegate_chromeos.cc:557 tab (id: 6, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:04.776951] tab_manager_delegate_chromeos.cc:557 tab (id: 5, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:04.776859] tab_manager_delegate_chromeos.cc:557 tab (id: 18, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:04.776758] tab_manager_delegate_chromeos.cc:557 tab (id: 70, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:04.776683] tab_manager_delegate_chromeos.cc:557 tab (id: 69, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:04.776610] tab_manager_delegate_chromeos.cc:557 tab (id: 1, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:04.776511] tab_manager_delegate_chromeos.cc:557 tab (id: 67, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:04.776437] tab_manager_delegate_chromeos.cc:557 tab (id: 65, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:04.776362] tab_manager_delegate_chromeos.cc:557 tab (id: 64, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:04.776284] tab_manager_delegate_chromeos.cc:557 tab (id: 63, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:04.776203] tab_manager_delegate_chromeos.cc:557 tab (id: 62, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:04.776127] tab_manager_delegate_chromeos.cc:557 tab (id: 47, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:04.776037] tab_manager_delegate_chromeos.cc:557 tab (id: 16, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:04.775896] tab_manager_delegate_chromeos.cc:557 tab (id: 38, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:04.775821] tab_manager_delegate_chromeos.cc:557 tab (id: 26, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:04.775748] tab_manager_delegate_chromeos.cc:557 tab (id: 49, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:04.775674] tab_manager_delegate_chromeos.cc:557 tab (id: 45, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:04.775598] tab_manager_delegate_chromeos.cc:557 tab (id: 42, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:04.775522] tab_manager_delegate_chromeos.cc:557 tab (id: 43, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:04.775447] tab_manager_delegate_chromeos.cc:557 tab (id: 40, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:04.775369] tab_manager_delegate_chromeos.cc:557 tab (id: 37, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:04.775293] tab_manager_delegate_chromeos.cc:557 tab (id: 52, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:04.775216] tab_manager_delegate_chromeos.cc:557 tab (id: 55, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:04.775096] tab_manager_delegate_chromeos.cc:557 tab (id: 56, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:04.774877] tab_manager_delegate_chromeos.cc:557 tab (id: 51, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:04.774802] tab_manager_delegate_chromeos.cc:557 tab (id: 50, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:04.774729] tab_manager_delegate_chromeos.cc:557 tab (id: 2, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:04.774654] tab_manager_delegate_chromeos.cc:557 tab (id: 29, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:04.774549] tab_manager_delegate_chromeos.cc:557 tab (id: 3, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:04.774477] tab_manager_delegate_chromeos.cc:557 tab (id: 20, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:04.774405] tab_manager_delegate_chromeos.cc:557 tab (id: 17, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:04.774334] tab_manager_delegate_chromeos.cc:557 tab (id: 14, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:04.774261] tab_manager_delegate_chromeos.cc:557 tab (id: 13, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:17:04.774177] tab_manager_delegate_chromeos.cc:557 tab (id: 12, pid: 17473), process_type BACKGROUND
+
+MemoryError[2022/11/07 00:17:04.774087] tab_manager_delegate_chromeos.cc:557 tab (id: 7, pid: 17372), process_type BACKGROUND
+
+MemoryError[2022/11/07 00:17:04.773963] tab_manager_delegate_chromeos.cc:557 tab (id: 24, pid: 17292), process_type BACKGROUND
+
+MemoryError[2022/11/07 00:17:04.773858] tab_manager_delegate_chromeos.cc:557 tab (id: 72, pid: 15064), process_type BACKGROUND
+
+MemoryError[2022/11/07 00:17:04.773758] tab_manager_delegate_chromeos.cc:557 tab (id: 60, pid: 14970), process_type BACKGROUND
+
+MemoryError[2022/11/07 00:17:04.773301] tab_manager_delegate_chromeos.cc:554 List of low memory kill candidates (sorted from low priority to high priority):
+
+CameraDebug[2022/11/07 00:17:02.447297] camera_hal_delegate.cc:267 Supported format: 160x120 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:17:02.447286] camera_hal_delegate.cc:267 Supported format: 176x144 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:17:02.447276] camera_hal_delegate.cc:267 Supported format: 320x240 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:17:02.447266] camera_hal_delegate.cc:267 Supported format: 352x288 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:17:02.447251] camera_hal_delegate.cc:267 Supported format: 640x480 fps=30 format=PIXEL_FORMAT_NV12
+
+CameraDebug[2022/11/07 00:17:02.447108] camera_hal_delegate.cc:267 Supported format: 1280x720 fps=30 format=PIXEL_FORMAT_NV12
+
+MemoryError[2022/11/07 00:17:00.081752] tab_manager_delegate_chromeos.cc:635 Time to first kill 0.289844 s
+
+MemoryError[2022/11/07 00:17:00.078191] tab_manager_delegate_chromeos.cc:567 Target memory to free: -65449 KB
+
+MemoryError[2022/11/07 00:17:00.077765] tab_manager_delegate_chromeos.cc:623 Killed tab (id: 54), estimated 69896 KB freed
+
+MemoryError[2022/11/07 00:16:59.809420] tab_manager_delegate_chromeos.cc:567 Target memory to free: 4447 KB
+
+MemoryError[2022/11/07 00:16:59.809353] tab_manager_delegate_chromeos.cc:557 tab (id: 15, pid: 18654), process_type FOCUSED_TAB
+
+MemoryError[2022/11/07 00:16:59.809281] tab_manager_delegate_chromeos.cc:557 tab (id: 66, pid: 31106), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:16:59.809179] tab_manager_delegate_chromeos.cc:557 tab (id: 75, pid: 14945), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:16:59.809008] tab_manager_delegate_chromeos.cc:557 tab (id: 78, pid: 14932), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:16:59.808898] tab_manager_delegate_chromeos.cc:557 tab (id: 82, pid: 13075), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:16:59.808819] tab_manager_delegate_chromeos.cc:557 tab (id: 85, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:16:59.808705] tab_manager_delegate_chromeos.cc:557 tab (id: 83, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:16:59.808622] tab_manager_delegate_chromeos.cc:557 tab (id: 84, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:16:59.808482] tab_manager_delegate_chromeos.cc:557 tab (id: 77, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:16:59.808048] tab_manager_delegate_chromeos.cc:557 tab (id: 81, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:16:59.804852] tab_manager_delegate_chromeos.cc:557 tab (id: 79, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:16:59.804775] tab_manager_delegate_chromeos.cc:557 tab (id: 68, pid: 31106), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:16:59.804671] tab_manager_delegate_chromeos.cc:557 tab (id: 10, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:16:59.804600] tab_manager_delegate_chromeos.cc:557 tab (id: 74, pid: 31106), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:16:59.804525] tab_manager_delegate_chromeos.cc:557 tab (id: 41, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:16:59.804422] tab_manager_delegate_chromeos.cc:557 tab (id: 11, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:16:59.804352] tab_manager_delegate_chromeos.cc:557 tab (id: 9, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:16:59.804278] tab_manager_delegate_chromeos.cc:557 tab (id: 8, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:16:59.804141] tab_manager_delegate_chromeos.cc:557 tab (id: 6, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:16:59.804062] tab_manager_delegate_chromeos.cc:557 tab (id: 5, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:16:59.803987] tab_manager_delegate_chromeos.cc:557 tab (id: 18, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:16:59.803890] tab_manager_delegate_chromeos.cc:557 tab (id: 70, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:16:59.803811] tab_manager_delegate_chromeos.cc:557 tab (id: 69, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:16:59.803680] tab_manager_delegate_chromeos.cc:557 tab (id: 1, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:16:59.803561] tab_manager_delegate_chromeos.cc:557 tab (id: 67, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:16:59.803488] tab_manager_delegate_chromeos.cc:557 tab (id: 65, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:16:59.803416] tab_manager_delegate_chromeos.cc:557 tab (id: 64, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:16:59.803341] tab_manager_delegate_chromeos.cc:557 tab (id: 63, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:16:59.803244] tab_manager_delegate_chromeos.cc:557 tab (id: 62, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:16:59.803098] tab_manager_delegate_chromeos.cc:557 tab (id: 47, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:16:59.803026] tab_manager_delegate_chromeos.cc:557 tab (id: 16, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:16:59.802945] tab_manager_delegate_chromeos.cc:557 tab (id: 38, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:16:59.802857] tab_manager_delegate_chromeos.cc:557 tab (id: 26, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:16:59.802784] tab_manager_delegate_chromeos.cc:557 tab (id: 49, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:16:59.802702] tab_manager_delegate_chromeos.cc:557 tab (id: 45, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:16:59.802628] tab_manager_delegate_chromeos.cc:557 tab (id: 42, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:16:59.802556] tab_manager_delegate_chromeos.cc:557 tab (id: 43, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:16:59.802480] tab_manager_delegate_chromeos.cc:557 tab (id: 40, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:16:59.802401] tab_manager_delegate_chromeos.cc:557 tab (id: 37, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:16:59.802322] tab_manager_delegate_chromeos.cc:557 tab (id: 52, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:16:59.802205] tab_manager_delegate_chromeos.cc:557 tab (id: 55, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:16:59.802119] tab_manager_delegate_chromeos.cc:557 tab (id: 56, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:16:59.802038] tab_manager_delegate_chromeos.cc:557 tab (id: 51, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:16:59.801950] tab_manager_delegate_chromeos.cc:557 tab (id: 50, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:16:59.801813] tab_manager_delegate_chromeos.cc:557 tab (id: 2, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:16:59.801394] tab_manager_delegate_chromeos.cc:557 tab (id: 29, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:16:59.798844] tab_manager_delegate_chromeos.cc:557 tab (id: 3, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:16:59.798773] tab_manager_delegate_chromeos.cc:557 tab (id: 20, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:16:59.798700] tab_manager_delegate_chromeos.cc:557 tab (id: 17, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:16:59.798620] tab_manager_delegate_chromeos.cc:557 tab (id: 14, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:16:59.798550] tab_manager_delegate_chromeos.cc:557 tab (id: 13, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/07 00:16:59.798480] tab_manager_delegate_chromeos.cc:557 tab (id: 12, pid: 17473), process_type BACKGROUND
+
+MemoryError[2022/11/07 00:16:59.798411] tab_manager_delegate_chromeos.cc:557 tab (id: 7, pid: 17372), process_type BACKGROUND
+
+MemoryError[2022/11/07 00:16:59.798336] tab_manager_delegate_chromeos.cc:557 tab (id: 24, pid: 17292), process_type BACKGROUND
+
+MemoryError[2022/11/07 00:16:59.798245] tab_manager_delegate_chromeos.cc:557 tab (id: 72, pid: 15064), process_type BACKGROUND
+
+MemoryError[2022/11/07 00:16:59.798077] tab_manager_delegate_chromeos.cc:557 tab (id: 60, pid: 14970), process_type BACKGROUND
+
+MemoryError[2022/11/07 00:16:59.797647] tab_manager_delegate_chromeos.cc:557 tab (id: 54, pid: 13723), process_type BACKGROUND
+
+MemoryError[2022/11/07 00:16:59.789958] tab_manager_delegate_chromeos.cc:554 List of low memory kill candidates (sorted from low priority to high priority):
+
+PowerDebug[2022/11/07 00:16:47.051738] power_manager_client.cc:791 Received power supply poll signal.
+
+PowerUser[2022/11/07 00:16:40.385864] power_manager_client.cc:436 SetPolicy
+
+PowerDebug[2022/11/07 00:16:17.040715] power_manager_client.cc:791 Received power supply poll signal.
+
+PowerUser[2022/11/07 00:16:13.009083] power_manager_client.cc:436 SetPolicy
+
+PowerDebug[2022/11/07 00:15:47.030886] power_manager_client.cc:791 Received power supply poll signal.
+
+PowerUser[2022/11/07 00:15:42.050545] power_manager_client.cc:436 SetPolicy
+
+PowerDebug[2022/11/07 00:15:17.020580] power_manager_client.cc:791 Received power supply poll signal.
+
+PowerUser[2022/11/07 00:15:03.321339] power_manager_client.cc:436 SetPolicy
+
+PowerDebug[2022/11/07 00:14:47.007362] power_manager_client.cc:791 Received power supply poll signal.
+
+PowerUser[2022/11/07 00:14:24.658262] power_manager_client.cc:436 SetPolicy
+
+PowerDebug[2022/11/07 00:14:16.998477] power_manager_client.cc:791 Received power supply poll signal.
+
+NetworkEvent[2022/11/07 00:12:13.686963] network_portal_detector_impl.cc:388 NetworkPortalDetector completed: id=ethernet_0, result=InternetConnected, status=2, response_code=204
+
+NetworkEvent[2022/11/07 00:12:13.601502] network_portal_detector_impl.cc:314 Starting captive portal detection.
+
+PowerDebug[2022/11/07 00:11:46.960408] power_manager_client.cc:791 Received power supply poll signal.
+
+NetworkEvent[2022/11/07 00:07:13.588601] network_portal_detector_impl.cc:388 NetworkPortalDetector completed: id=ethernet_0, result=InternetConnected, status=2, response_code=204
+
+NetworkEvent[2022/11/07 00:07:13.536788] network_portal_detector_impl.cc:314 Starting captive portal detection.
+
+PowerDebug[2022/11/07 00:06:46.877603] power_manager_client.cc:791 Received power supply poll signal.
+
+NetworkEvent[2022/11/07 00:02:13.535054] network_portal_detector_impl.cc:388 NetworkPortalDetector completed: id=ethernet_0, result=InternetConnected, status=2, response_code=204
+
+NetworkEvent[2022/11/07 00:02:13.452541] network_portal_detector_impl.cc:314 Starting captive portal detection.
+
+PowerDebug[2022/11/07 00:01:46.791888] power_manager_client.cc:791 Received power supply poll signal.
+
+NetworkEvent[2022/11/06 23:57:13.450964] network_portal_detector_impl.cc:388 NetworkPortalDetector completed: id=ethernet_0, result=InternetConnected, status=2, response_code=204
+
+NetworkEvent[2022/11/06 23:57:13.388583] network_portal_detector_impl.cc:314 Starting captive portal detection.
+
+PowerDebug[2022/11/06 23:57:07.942811] power_manager_client.cc:791 Received power supply poll signal.
+
+MemoryError[2022/11/06 23:56:52.848411] tab_manager_delegate_chromeos.cc:635 Time to first kill 0.076835 s
+
+MemoryError[2022/11/06 23:56:52.848319] tab_manager_delegate_chromeos.cc:567 Target memory to free: -54750 KB
+
+MemoryError[2022/11/06 23:56:52.847950] tab_manager_delegate_chromeos.cc:623 Killed tab (id: 85), estimated 56212 KB freed
+
+MemoryError[2022/11/06 23:56:52.776530] tab_manager_delegate_chromeos.cc:567 Target memory to free: 1462 KB
+
+MemoryError[2022/11/06 23:56:52.776451] tab_manager_delegate_chromeos.cc:557 tab (id: 75, pid: 14945), process_type FOCUSED_TAB
+
+MemoryError[2022/11/06 23:56:52.776186] tab_manager_delegate_chromeos.cc:557 tab (id: 78, pid: 14932), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:52.775833] tab_manager_delegate_chromeos.cc:557 tab (id: 82, pid: 13075), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:52.775764] tab_manager_delegate_chromeos.cc:557 tab (id: 83, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:52.775693] tab_manager_delegate_chromeos.cc:557 tab (id: 84, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:52.775619] tab_manager_delegate_chromeos.cc:557 tab (id: 77, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:52.775518] tab_manager_delegate_chromeos.cc:557 tab (id: 81, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:52.775448] tab_manager_delegate_chromeos.cc:557 tab (id: 79, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:52.775363] tab_manager_delegate_chromeos.cc:557 tab (id: 66, pid: 31106), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:52.775295] tab_manager_delegate_chromeos.cc:557 tab (id: 68, pid: 31106), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:52.775219] tab_manager_delegate_chromeos.cc:557 tab (id: 10, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:52.775141] tab_manager_delegate_chromeos.cc:557 tab (id: 74, pid: 31106), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:52.775073] tab_manager_delegate_chromeos.cc:557 tab (id: 41, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:52.774995] tab_manager_delegate_chromeos.cc:557 tab (id: 12, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:52.774902] tab_manager_delegate_chromeos.cc:557 tab (id: 11, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:52.774836] tab_manager_delegate_chromeos.cc:557 tab (id: 9, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:52.774767] tab_manager_delegate_chromeos.cc:557 tab (id: 8, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:52.774699] tab_manager_delegate_chromeos.cc:557 tab (id: 7, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:52.774631] tab_manager_delegate_chromeos.cc:557 tab (id: 6, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:52.774556] tab_manager_delegate_chromeos.cc:557 tab (id: 5, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:52.774488] tab_manager_delegate_chromeos.cc:557 tab (id: 18, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:52.774418] tab_manager_delegate_chromeos.cc:557 tab (id: 70, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:52.774350] tab_manager_delegate_chromeos.cc:557 tab (id: 69, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:52.774282] tab_manager_delegate_chromeos.cc:557 tab (id: 1, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:52.774200] tab_manager_delegate_chromeos.cc:557 tab (id: 67, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:52.774132] tab_manager_delegate_chromeos.cc:557 tab (id: 65, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:52.774062] tab_manager_delegate_chromeos.cc:557 tab (id: 64, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:52.773985] tab_manager_delegate_chromeos.cc:557 tab (id: 63, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:52.773878] tab_manager_delegate_chromeos.cc:557 tab (id: 62, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:52.773809] tab_manager_delegate_chromeos.cc:557 tab (id: 47, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:52.773732] tab_manager_delegate_chromeos.cc:557 tab (id: 15, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:52.773664] tab_manager_delegate_chromeos.cc:557 tab (id: 16, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:52.773595] tab_manager_delegate_chromeos.cc:557 tab (id: 38, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:52.773526] tab_manager_delegate_chromeos.cc:557 tab (id: 26, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:52.773435] tab_manager_delegate_chromeos.cc:557 tab (id: 49, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:52.773367] tab_manager_delegate_chromeos.cc:557 tab (id: 45, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:52.773300] tab_manager_delegate_chromeos.cc:557 tab (id: 42, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:52.773231] tab_manager_delegate_chromeos.cc:557 tab (id: 43, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:52.773157] tab_manager_delegate_chromeos.cc:557 tab (id: 40, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:52.773047] tab_manager_delegate_chromeos.cc:557 tab (id: 37, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:52.772971] tab_manager_delegate_chromeos.cc:557 tab (id: 52, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:52.772878] tab_manager_delegate_chromeos.cc:557 tab (id: 55, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:52.772807] tab_manager_delegate_chromeos.cc:557 tab (id: 56, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:52.772735] tab_manager_delegate_chromeos.cc:557 tab (id: 51, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:52.772667] tab_manager_delegate_chromeos.cc:557 tab (id: 50, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:52.772596] tab_manager_delegate_chromeos.cc:557 tab (id: 24, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:52.772527] tab_manager_delegate_chromeos.cc:557 tab (id: 2, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:52.772457] tab_manager_delegate_chromeos.cc:557 tab (id: 29, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:52.772384] tab_manager_delegate_chromeos.cc:557 tab (id: 3, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:52.772305] tab_manager_delegate_chromeos.cc:557 tab (id: 20, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:52.772232] tab_manager_delegate_chromeos.cc:557 tab (id: 17, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:52.772157] tab_manager_delegate_chromeos.cc:557 tab (id: 14, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:52.772075] tab_manager_delegate_chromeos.cc:557 tab (id: 13, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:52.772000] tab_manager_delegate_chromeos.cc:557 tab (id: 72, pid: 15064), process_type BACKGROUND
+
+MemoryError[2022/11/06 23:56:52.771887] tab_manager_delegate_chromeos.cc:557 tab (id: 60, pid: 14970), process_type BACKGROUND
+
+MemoryError[2022/11/06 23:56:52.771809] tab_manager_delegate_chromeos.cc:557 tab (id: 54, pid: 13723), process_type BACKGROUND
+
+MemoryError[2022/11/06 23:56:52.771699] tab_manager_delegate_chromeos.cc:557 tab (id: 85, pid: 14152), process_type BACKGROUND
+
+MemoryError[2022/11/06 23:56:52.771242] tab_manager_delegate_chromeos.cc:554 List of low memory kill candidates (sorted from low priority to high priority):
+
+MemoryError[2022/11/06 23:56:51.988245] tab_manager_delegate_chromeos.cc:635 Time to first kill 0.20135 s
+
+MemoryError[2022/11/06 23:56:51.981735] tab_manager_delegate_chromeos.cc:567 Target memory to free: -49045 KB
+
+MemoryError[2022/11/06 23:56:51.981307] tab_manager_delegate_chromeos.cc:623 Killed tab (id: 83), estimated 53568 KB freed
+
+MemoryError[2022/11/06 23:56:51.792188] tab_manager_delegate_chromeos.cc:567 Target memory to free: 4523 KB
+
+MemoryError[2022/11/06 23:56:51.792116] tab_manager_delegate_chromeos.cc:557 tab (id: 75, pid: 14945), process_type FOCUSED_TAB
+
+MemoryError[2022/11/06 23:56:51.792039] tab_manager_delegate_chromeos.cc:557 tab (id: 78, pid: 14932), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:51.791948] tab_manager_delegate_chromeos.cc:557 tab (id: 82, pid: 13075), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:51.791826] tab_manager_delegate_chromeos.cc:557 tab (id: 84, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:51.791756] tab_manager_delegate_chromeos.cc:557 tab (id: 77, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:51.791683] tab_manager_delegate_chromeos.cc:557 tab (id: 81, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:51.791611] tab_manager_delegate_chromeos.cc:557 tab (id: 79, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:51.791533] tab_manager_delegate_chromeos.cc:557 tab (id: 66, pid: 31106), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:51.791458] tab_manager_delegate_chromeos.cc:557 tab (id: 68, pid: 31106), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:51.791382] tab_manager_delegate_chromeos.cc:557 tab (id: 10, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:51.791256] tab_manager_delegate_chromeos.cc:557 tab (id: 74, pid: 31106), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:51.791007] tab_manager_delegate_chromeos.cc:557 tab (id: 41, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:51.790901] tab_manager_delegate_chromeos.cc:557 tab (id: 12, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:51.790824] tab_manager_delegate_chromeos.cc:557 tab (id: 11, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:51.790753] tab_manager_delegate_chromeos.cc:557 tab (id: 9, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:51.790678] tab_manager_delegate_chromeos.cc:557 tab (id: 8, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:51.790569] tab_manager_delegate_chromeos.cc:557 tab (id: 7, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:51.790497] tab_manager_delegate_chromeos.cc:557 tab (id: 6, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:51.790426] tab_manager_delegate_chromeos.cc:557 tab (id: 5, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:51.790351] tab_manager_delegate_chromeos.cc:557 tab (id: 18, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:51.790281] tab_manager_delegate_chromeos.cc:557 tab (id: 70, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:51.790208] tab_manager_delegate_chromeos.cc:557 tab (id: 69, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:51.790133] tab_manager_delegate_chromeos.cc:557 tab (id: 1, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:51.790060] tab_manager_delegate_chromeos.cc:557 tab (id: 67, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:51.789982] tab_manager_delegate_chromeos.cc:557 tab (id: 65, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:51.789884] tab_manager_delegate_chromeos.cc:557 tab (id: 64, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:51.789811] tab_manager_delegate_chromeos.cc:557 tab (id: 63, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:51.789734] tab_manager_delegate_chromeos.cc:557 tab (id: 62, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:51.789645] tab_manager_delegate_chromeos.cc:557 tab (id: 47, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:51.789553] tab_manager_delegate_chromeos.cc:557 tab (id: 15, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:51.789482] tab_manager_delegate_chromeos.cc:557 tab (id: 16, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:51.789384] tab_manager_delegate_chromeos.cc:557 tab (id: 38, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:51.789307] tab_manager_delegate_chromeos.cc:557 tab (id: 26, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:51.789194] tab_manager_delegate_chromeos.cc:557 tab (id: 49, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:51.789122] tab_manager_delegate_chromeos.cc:557 tab (id: 45, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:51.789051] tab_manager_delegate_chromeos.cc:557 tab (id: 42, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:51.788975] tab_manager_delegate_chromeos.cc:557 tab (id: 43, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:51.788868] tab_manager_delegate_chromeos.cc:557 tab (id: 40, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:51.788740] tab_manager_delegate_chromeos.cc:557 tab (id: 37, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:51.788611] tab_manager_delegate_chromeos.cc:557 tab (id: 52, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:51.788220] tab_manager_delegate_chromeos.cc:557 tab (id: 55, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:51.788153] tab_manager_delegate_chromeos.cc:557 tab (id: 56, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:51.788085] tab_manager_delegate_chromeos.cc:557 tab (id: 51, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:51.788014] tab_manager_delegate_chromeos.cc:557 tab (id: 50, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:51.787929] tab_manager_delegate_chromeos.cc:557 tab (id: 24, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:51.787819] tab_manager_delegate_chromeos.cc:557 tab (id: 2, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:51.787745] tab_manager_delegate_chromeos.cc:557 tab (id: 29, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:51.787635] tab_manager_delegate_chromeos.cc:557 tab (id: 3, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:51.787562] tab_manager_delegate_chromeos.cc:557 tab (id: 20, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:51.787489] tab_manager_delegate_chromeos.cc:557 tab (id: 17, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:51.787411] tab_manager_delegate_chromeos.cc:557 tab (id: 14, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:51.787286] tab_manager_delegate_chromeos.cc:557 tab (id: 13, pid: 0), process_type PROTECTED_BACKGROUND
+
+MemoryError[2022/11/06 23:56:51.787185] tab_manager_delegate_chromeos.cc:557 tab (id: 72, pid: 15064), process_type BACKGROUND
+
+MemoryError[2022/11/06 23:56:51.786991] tab_manager_delegate_chromeos.cc:557 tab (id: 60, pid: 14970), process_type BACKGROUND
+
+MemoryError[2022/11/06 23:56:51.786481] tab_manager_delegate_chromeos.cc:557 tab (id: 54, pid: 13723), process_type BACKGROUND
+
+MemoryError[2022/11/06 23:56:51.785836] tab_manager_delegate_chromeos.cc:557 tab (id: 85, pid: 14152), process_type BACKGROUND
+
+MemoryError[2022/11/06 23:56:51.785261] tab_manager_delegate_chromeos.cc:557 tab (id: 83, pid: 14095), process_type BACKGROUND
+
+MemoryError[2022/11/06 23:56:51.780358] tab_manager_delegate_chromeos.cc:554 List of low memory kill candidates (sorted from low priority to high priority):
+
+PowerDebug[2022/11/06 23:56:37.906152] power_manager_client.cc:791 Received power supply poll signal.
+
+NetworkEvent[2022/11/06 23:52:13.374125] network_portal_detector_impl.cc:388 NetworkPortalDetector completed: id=ethernet_0, result=InternetConnected, status=2, response_code=204
+
+NetworkEvent[2022/11/06 23:52:13.289701] network_portal_detector_impl.cc:314 Starting captive portal detection.
+
+PowerDebug[2022/11/06 23:52:07.822046] power_manager_client.cc:791 Received power supply poll signal.
 
 MemoryError[2022/11/06 23:49:20.638676] tab_manager_delegate_chromeos.cc:635 Time to first kill 0.772291 s
 
