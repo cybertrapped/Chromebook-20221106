@@ -12,7 +12,9 @@ Researching over the internet, I finally found the specifics of how to login to 
 
 So, then I logged back in and finally was able to stay logged in for a bit. My first surprise was to see the date and time as "Current System Time: Thu, 01 Jan 1970 00:09:58." 
 
+I was surprised at this, and I wanted to speak to the apparent Cox support again. Anybody really. So I called Cox again, and this time, contrary to what I have been doing, I identified myself through my phone number. This is when I realized that there is more than one account, with the address of the building where I rent my office, and associated to with my phone number. Here you can hear the phone call: https://app.skiff.org/docs/6da4bbaa-8f61-42a5-bb14-0a11157babd8#lyJrcfIqLna5M2dxxgu9AdYUwM7af6phrQwMAuvN6FQ%3D
 
+I feel aweful. I don't know who to talk to. I have ran out of money, and these people disabled me from working, either as a singer on the streets (street performer) or remote work since I cannot get a secure computer much least secure internet service. This is a crime and I can't get help. 
 
 CONCLUSION: I am appalled that Cox would provide me with a 2016 modem that failed security. Still, I believe the user interface may not reflect the modem, because I can remember accessing modems as back as 2010 and they already provided users with the ability to set the firewall, and many other features. BUT IN ALL HONESTY, I think this is not the equipment the company provides to regular business users. I think the company is cooperating with whoever is targetting me, and I think that even if they are cooperating with a government agency, this is illegal, or negligent. 
 
